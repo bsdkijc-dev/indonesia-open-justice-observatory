@@ -1,0 +1,19 @@
+{
+  "title": "Indonesia Open Justice Observatory (IOJO) — Judicial Transparency & Case Statistics (2024–2025)",
+  "id": "judicialcollege/indonesia-open-justice-observatory-2024-2025",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "subtitle": "Reproducible judicial performance indicators and case statistics extracted from Mahkamah Agung RI Annual Reports.",
+  "description": "Independent research dataset curated by Cecep Mustafa, Ph.D. (IOJO). Contains structured DS02 case statistics and DS06 derived indicators (IND-01 to IND-10) from Kepaniteraan Mahkamah Agung RI Annual Reports (2024-2025) under strict zero-imputation and zero-PII rules. Source PDFs are NOT redistributed.",
+  "keywords": [
+    "law",
+    "government",
+    "indonesia",
+    "open data",
+    "judicial transparency"
+  ],
+  "version": "1.0.0"
+}

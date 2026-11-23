@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dataset 03 - Judgment Publication",
+  "type": "object",
+  "required": [
+    "publication_id",
+    "case_number",
+    "court_name",
+    "source_url",
+    "retrieval_date",
+    "validation_status"
+  ],
+  "properties": {
+    "publication_id": {"type": "string", "pattern": "^PUB-[A-Z0-9-]+$"},
+    "case_number": {"type": "string", "minLength": 3},
+    "court_name": {"type": "string"},
+    "decision_date": {"type": ["string", "null"], "format": "date"},
+    "publication_date": {"type": ["string", "null"], "format": "date"},
+    "document_url": {"type": ["string", "null"], "format": "uri"},
+    "document_type": {"type": ["string", "null"]},
+    "document_hash": {"type": ["string", "null"]},
+    "source_url": {"type": "string", "format": "uri"},
+    "retrieval_date": {"type": "string", "format": "date"},
+    "validation_status": {"type": "string", "enum": ["VERIFIED", "DERIVED", "UNVERIFIED"]}
+  },
+  "additionalProperties": false
+}

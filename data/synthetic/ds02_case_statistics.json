@@ -1,0 +1,67 @@
+[
+  {
+    "statistic_id": "STAT-SYN-0001",
+    "court_id": "INST-MA-000",
+    "reporting_period": "2024",
+    "case_category": "Kasasi & PK (Synthetic)",
+    "incoming_cases": 30000,
+    "resolved_cases": 29500,
+    "pending_cases": 1200,
+    "source_document": "SYNTHETIC_TEST_FIXTURE_LAPTAH_2024",
+    "source_page": "16",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "statistic_id": "STAT-SYN-0002",
+    "court_id": "INST-PN-JKT-SEL",
+    "reporting_period": "2024",
+    "case_category": "Perdata",
+    "incoming_cases": 1850,
+    "resolved_cases": 1620,
+    "pending_cases": 410,
+    "source_document": "SYNTHETIC_TEST_FIXTURE_BADILUM_2024",
+    "source_page": "4",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "statistic_id": "STAT-SYN-0003",
+    "court_id": "INST-PA-BDG",
+    "reporting_period": "2024",
+    "case_category": "Perdata Agama",
+    "incoming_cases": 4200,
+    "resolved_cases": 3980,
+    "pending_cases": 390,
+    "source_document": "SYNTHETIC_TEST_FIXTURE_BADILAG_2024",
+    "source_page": "11",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "statistic_id": "STAT-SYN-0004",
+    "court_id": "INST-PTUN-MKS",
+    "reporting_period": "2024",
+    "case_category": "Tata Usaha Negara",
+    "incoming_cases": 145,
+    "resolved_cases": 128,
+    "pending_cases": 27,
+    "source_document": "SYNTHETIC_TEST_FIXTURE_MILTUN_2024",
+    "source_page": "8",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "statistic_id": "STAT-SYN-0005",
+    "court_id": "INST-PN-JPR",
+    "reporting_period": "2024",
+    "case_category": "Pidana",
+    "incoming_cases": 410,
+    "resolved_cases": null,
+    "pending_cases": null,
+    "source_document": "SYNTHETIC_TEST_FIXTURE_MISSING_REPORT",
+    "source_page": null,
+    "retrieval_date": "2026-11-23",
+    "validation_status": "UNVERIFIED"
+  }
+]

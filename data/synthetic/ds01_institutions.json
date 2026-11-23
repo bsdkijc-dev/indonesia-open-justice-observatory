@@ -1,0 +1,62 @@
+[
+  {
+    "institution_id": "INST-MA-000",
+    "court_name": "Mahkamah Agung Republik Indonesia",
+    "court_type": "Mahkamah Agung",
+    "jurisdiction": "Mahkamah Agung",
+    "province": "DKI Jakarta",
+    "district": "Jakarta Pusat",
+    "official_source": "Portal Resmi Mahkamah Agung RI (Synthetic Fixture)",
+    "source_url": "https://www.mahkamahagung.go.id",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "institution_id": "INST-PN-JKT-SEL",
+    "court_name": "Pengadilan Negeri Jakarta Selatan",
+    "court_type": "Tingkat Pertama",
+    "jurisdiction": "Umum",
+    "province": "DKI Jakarta",
+    "district": "Jakarta Selatan",
+    "official_source": "Ditjen Badilum MA RI (Synthetic Fixture)",
+    "source_url": "https://badilum.mahkamahagung.go.id/statistik-perkara.html",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "institution_id": "INST-PA-BDG",
+    "court_name": "Pengadilan Agama Bandung",
+    "court_type": "Tingkat Pertama",
+    "jurisdiction": "Agama",
+    "province": "Jawa Barat",
+    "district": "Kota Bandung",
+    "official_source": "Ditjen Badilag MA RI (Synthetic Fixture)",
+    "source_url": "https://badilag.mahkamahagung.go.id/",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "institution_id": "INST-PTUN-MKS",
+    "court_name": "Pengadilan Tata Usaha Negara Makassar",
+    "court_type": "Tingkat Pertama",
+    "jurisdiction": "Tata Usaha Negara",
+    "province": "Sulawesi Selatan",
+    "district": "Kota Makassar",
+    "official_source": "Ditjen Badilmiltun MA RI (Synthetic Fixture)",
+    "source_url": "https://ditjenmiltun.mahkamahagung.go.id/donwload-post/",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "institution_id": "INST-PN-JPR",
+    "court_name": "Pengadilan Negeri Jayapura",
+    "court_type": "Tingkat Pertama",
+    "jurisdiction": "Umum",
+    "province": "Papua",
+    "district": "Kota Jayapura",
+    "official_source": "Ditjen Badilum MA RI (Synthetic Fixture)",
+    "source_url": "https://badilum.mahkamahagung.go.id/statistik-perkara.html",
+    "last_verified": "2026-11-23",
+    "validation_status": "UNVERIFIED"
+  }
+]

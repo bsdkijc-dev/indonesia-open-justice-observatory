@@ -1,0 +1,3 @@
+service_id,court_id,service_category,service_description,official_url,accessibility_status,last_verified,validation_status
+SVC-SYN-0001,INST-MA-000,e-Court,Pendaftaran perkara dan persidangan elektronik (memerlukan akun terdaftar).,https://ecourt.mahkamahagung.go.id,RESTRICTED,2026-11-23,VERIFIED
+SVC-SYN-0002,INST-MA-000,Laporan Tahunan,Publikasi PDF Laporan Tahunan Kepaniteraan Mahkamah Agung RI.,https://kepaniteraan.mahkamahagung.go.id/id/publikasi/laporan-tahunan,ACCESSIBLE,2026-11-23,VERIFIED

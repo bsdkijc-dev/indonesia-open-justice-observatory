@@ -1,0 +1,91 @@
+{
+  "pdf_path": "/home/ai/indonesia-open-justice-observatory/data/cache/8b0381e52f6fe90b09dc872019cdc5d2ec6e030c7515027ec694ac990879e8f4.pdf",
+  "total_pages": 121,
+  "section_pages": {
+    "Kamar Perdata": [
+      5,
+      14
+    ],
+    "Kamar Pidana": [
+      5,
+      19
+    ],
+    "Kamar Agama": [
+      5,
+      26
+    ],
+    "Kamar Militer": [
+      5,
+      31
+    ],
+    "Kamar Tata Usaha Negara": [
+      5,
+      34
+    ],
+    "Rasio Produktivitas Memutus": [
+      3,
+      5,
+      14,
+      15,
+      17,
+      18,
+      19,
+      21,
+      22,
+      24,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      45,
+      46,
+      120
+    ],
+    "Rasio Penyelesaian Perkara (Clearance Rate)": [
+      5,
+      14,
+      20,
+      27,
+      40,
+      46
+    ],
+    "Rerata Waktu Memutus": [
+      5,
+      47,
+      116
+    ],
+    "Rerata Waktu Minutasi": [
+      5,
+      48,
+      49
+    ],
+    "Perkara Belum Minutasi": [
+      5,
+      50,
+      51
+    ]
+  },
+  "raw_tables_count": 48,
+  "extracted_records_count": 110,
+  "verified_records_count": 69,
+  "unverified_records_count": 41,
+  "audit": {
+    "total_records": 110,
+    "issues_count": 1,
+    "findings": [
+      {
+        "id": "STAT-LAP25-P046-T01-R008",
+        "issue": "DUPLICATE_CASE_STATISTIC"
+      }
+    ],
+    "passed": false
+  }
+}

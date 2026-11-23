@@ -1,0 +1,23 @@
+{
+  "engine_used": "duckdb",
+  "total_ds02_records": 290,
+  "total_ds06_indicators": 132,
+  "period_summary": [
+    {
+      "reporting_period": "2024",
+      "total_rows": 180,
+      "verified_rows": 119.0,
+      "non_null_incoming": 180.0,
+      "non_null_resolved": 163.0,
+      "non_null_pending": 165.0
+    },
+    {
+      "reporting_period": "2025",
+      "total_rows": 110,
+      "verified_rows": 69.0,
+      "non_null_incoming": 55.0,
+      "non_null_resolved": 94.0,
+      "non_null_pending": 79.0
+    }
+  ]
+}

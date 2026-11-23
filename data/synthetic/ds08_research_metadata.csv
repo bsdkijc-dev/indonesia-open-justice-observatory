@@ -1,0 +1,2 @@
+research_id,dataset_id,research_question,methodology,limitations,publication_date,repository_url,citation
+RES-PILOT-001,DS01-DS07,RQ01;RQ02;RQ03;RQ04;RQ07;RQ10,"Descriptive audit, zero-imputation missingness profiling, and reproducible indicator derivation.",Pilot phase uses synthetic fixtures for schema/pipeline verification; live bulk collection awaits human approval.,,https://github.com/bsdkijc-dev/indonesia-open-justice-observatory,"Mustafa, C. (2026). Indonesia Open Justice Observatory (IOJO) v1.0-pilot."

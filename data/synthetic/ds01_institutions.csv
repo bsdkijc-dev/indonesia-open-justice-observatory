@@ -1,0 +1,6 @@
+institution_id,court_name,court_type,jurisdiction,province,district,official_source,source_url,last_verified,validation_status
+INST-MA-000,Mahkamah Agung Republik Indonesia,Mahkamah Agung,Mahkamah Agung,DKI Jakarta,Jakarta Pusat,Portal Resmi Mahkamah Agung RI (Synthetic Fixture),https://www.mahkamahagung.go.id,2026-11-23,VERIFIED
+INST-PN-JKT-SEL,Pengadilan Negeri Jakarta Selatan,Tingkat Pertama,Umum,DKI Jakarta,Jakarta Selatan,Ditjen Badilum MA RI (Synthetic Fixture),https://badilum.mahkamahagung.go.id/statistik-perkara.html,2026-11-23,VERIFIED
+INST-PA-BDG,Pengadilan Agama Bandung,Tingkat Pertama,Agama,Jawa Barat,Kota Bandung,Ditjen Badilag MA RI (Synthetic Fixture),https://badilag.mahkamahagung.go.id/,2026-11-23,VERIFIED
+INST-PTUN-MKS,Pengadilan Tata Usaha Negara Makassar,Tingkat Pertama,Tata Usaha Negara,Sulawesi Selatan,Kota Makassar,Ditjen Badilmiltun MA RI (Synthetic Fixture),https://ditjenmiltun.mahkamahagung.go.id/donwload-post/,2026-11-23,VERIFIED
+INST-PN-JPR,Pengadilan Negeri Jayapura,Tingkat Pertama,Umum,Papua,Kota Jayapura,Ditjen Badilum MA RI (Synthetic Fixture),https://badilum.mahkamahagung.go.id/statistik-perkara.html,2026-11-23,UNVERIFIED

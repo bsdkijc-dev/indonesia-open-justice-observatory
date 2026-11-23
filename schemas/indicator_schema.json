@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dataset 06 - Public Access & Performance Indicators",
+  "type": "object",
+  "required": [
+    "indicator_id",
+    "court_id",
+    "reporting_period",
+    "indicator_name",
+    "unit",
+    "source",
+    "calculation_method",
+    "validation_status"
+  ],
+  "properties": {
+    "indicator_id": {"type": "string", "pattern": "^IND-[A-Z0-9-]+$"},
+    "court_id": {"type": "string"},
+    "reporting_period": {"type": "string"},
+    "indicator_name": {"type": "string"},
+    "indicator_value": {"type": ["number", "null"]},
+    "unit": {"type": "string"},
+    "denominator": {"type": ["number", "string", "null"]},
+    "source": {"type": "string"},
+    "calculation_method": {"type": "string"},
+    "validation_status": {"type": "string", "enum": ["VERIFIED", "DERIVED", "UNVERIFIED"]}
+  },
+  "additionalProperties": false
+}

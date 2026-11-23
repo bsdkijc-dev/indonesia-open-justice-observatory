@@ -1,0 +1,29 @@
+{
+  "engine_used": "sqlite3_fallback",
+  "dataset_type": "SYNTHETIC_TEST_FIXTURE",
+  "audits": {
+    "ds02_case_statistics": {
+      "total_records": 5,
+      "issues_count": 0,
+      "findings": [],
+      "passed": true
+    },
+    "ds03_judgment_publication": {
+      "total_records": 3,
+      "issues_count": 0,
+      "findings": [],
+      "passed": true
+    },
+    "ds06_public_access_indicators": {
+      "total_records": 2,
+      "issues_count": 0,
+      "findings": [],
+      "passed": true
+    }
+  },
+  "missingness": {
+    "ds02_resolved_cases_nulls": 1,
+    "ds02_pending_cases_nulls": 1,
+    "ds03_publication_date_nulls": 1
+  }
+}

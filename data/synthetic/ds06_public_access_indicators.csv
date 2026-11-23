@@ -1,0 +1,3 @@
+indicator_id,court_id,reporting_period,indicator_name,indicator_value,unit,denominator,source,calculation_method,validation_status
+IND-03-SYN-001,INST-PN-JKT-SEL,2024,Case Clearance Rate (resolved / incoming),87.57,percent,1850,DS02:STAT-SYN-0002,(resolved_cases / incoming_cases) * 100,DERIVED
+IND-02-SYN-001,INST-MA-000,2024,Publication Timeliness,37.0,days,1,DS03:PUB-SYN-0001,publication_date - decision_date,DERIVED

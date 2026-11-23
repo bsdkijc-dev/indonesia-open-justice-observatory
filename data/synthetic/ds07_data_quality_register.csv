@@ -1,0 +1,2 @@
+record_id,dataset_name,source,missing_fields,duplicate_status,validation_status,reviewer,review_date,correction_notes
+DQR-SYN-0001,DS02_case_statistics,SYNTHETIC_TEST_FIXTURE,resolved_cases;pending_cases;source_page (STAT-SYN-0005),NO_DUPLICATES,VERIFIED,VALIDATION_AGENT,2026-11-23,Preserved nulls per zero-imputation policy; STAT-SYN-0005 marked UNVERIFIED.

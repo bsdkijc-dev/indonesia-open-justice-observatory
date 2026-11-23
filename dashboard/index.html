@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Indonesia Open Justice Observatory (IOJO) — Justice You Can Verify</title>
+  <style>
+    :root { --bg: #f8fafc; --card: #ffffff; --text: #0f172a; --muted: #475569; --accent: #1d4ed8; --border: #e2e8f0; --warn: #fef3c7; }
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background: var(--bg); color: var(--text); line-height: 1.6; }
+    header { background: #0f172a; color: #ffffff; padding: 2rem 1.25rem; }
+    header .wrap, main { max-width: 980px; margin: 0 auto; }
+    main { padding: 1.5rem 1.25rem 3rem; display: grid; gap: 1.25rem; }
+    .meta-bar { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.9rem; color: #cbd5e1; margin-top: 0.75rem; }
+    .notice { background: var(--warn); border-left: 4px solid #d97706; padding: 0.9rem 1rem; border-radius: 6px; font-size: 0.95rem; }
+    section { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+    h1 { margin: 0; font-size: 1.65rem; }
+    h2 { margin-top: 0; font-size: 1.2rem; color: #1e293b; border-bottom: 1px solid var(--border); padding-bottom: 0.4rem; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.92rem; overflow-x: auto; display: block; }
+    th, td { text-align: left; padding: 0.55rem 0.65rem; border-bottom: 1px solid var(--border); }
+    th { background: #f1f5f9; }
+    .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: 0.78rem; font-weight: 600; background: #e0e7ff; color: #1e40af; }
+    footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 1.5rem; border-top: 1px solid var(--border); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Indonesia Open Justice Observatory (IOJO)</h1>
+      <p style="margin:0.35rem 0 0;color:#94a3b8;">Justice You Can Verify — Riset Independen Kinerja Peradilan Indonesia (2027–2030)</p>
+      <div class="meta-bar">
+        <span>Pembaruan Terakhir: <strong>2026-11-23</strong></span>
+        <span>Cakupan Data: <strong>Fase Pilot (Fixture Sintetis Tervalidasi)</strong></span>
+        <span>Direktur Riset: <strong>Cecep Mustafa, Ph.D.</strong></span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="notice">
+      <strong>Pemberitahuan Independensi &amp; Status Data:</strong> IOJO adalah inisiatif riset independen dan <strong>bukan</strong> portal resmi Mahkamah Agung RI. Angka pada fase pilot ini bersumber dari <em>synthetic test fixtures</em> untuk menguji skema dan kontrol kualitas. Data kosong ditampilkan sebagai <em>Tidak Tersedia (Null)</em>, bukan angka nol.
+    </div>
+
+    <section id="tentang">
+      <h2>1. Tentang Observatorium</h2>
+      <p>IOJO mengubah informasi peradilan publik Indonesia yang sah dan dapat diverifikasi menjadi riset kinerja peradilan yang dapat direproduksi, indikator akuntabilitas publik, dan kecerdasan kebijakan berbasis bukti.</p>
+    </section>
+
+    <section id="sumber">
+      <h2>2. Sumber Informasi Peradilan Resmi</h2>
+      <ul>
+        <li><a href="https://www.mahkamahagung.go.id" target="_blank" rel="noopener">Portal Resmi Mahkamah Agung RI</a> — Pengumuman &amp; kebijakan kelembagaan.</li>
+        <li><a href="https://putusan3.mahkamahagung.go.id" target="_blank" rel="noopener">Direktori Putusan Mahkamah Agung RI</a> — Repositori putusan (inspeksi metadata terbatas; tanpa pengumpulan massal).</li>
+        <li><a href="https://kepaniteraan.mahkamahagung.go.id/id/publikasi/laporan-tahunan" target="_blank" rel="noopener">Laporan Tahunan Kepaniteraan MA RI</a> — Dokumen PDF resmi 2021–2025.</li>
+        <li><a href="https://badilum.mahkamahagung.go.id/statistik-perkara.html" target="_blank" rel="noopener">Statistik Perkara Ditjen Badilum</a> &amp; <a href="https://badilag.mahkamahagung.go.id/" target="_blank" rel="noopener">Ditjen Badilag</a> &amp; <a href="https://ditjenmiltun.mahkamahagung.go.id/donwload-post/" target="_blank" rel="noopener">Ditjen Badilmiltun</a>.</li>
+      </ul>
+    </section>
+
+    <section id="indikator">
+      <h2>3. Indikator Kinerja Peradilan (IND-01 s.d. IND-10)</h2>
+      <table>
+        <thead>
+          <tr><th>Kode</th><th>Indikator</th><th>Status Pilot</th><th>Catatan Metodologis</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>IND-01</td><td>Kelengkapan Publikasi</td><td><span class="badge">TERDEFINISI</span></td><td>Hanya dihitung jika semesta perkara (denominator) diketahui.</td></tr>
+          <tr><td>IND-02</td><td>Ketepatan Waktu Publikasi</td><td><span class="badge">DERIVED (Sintetis)</span></td><td>Selisih tanggal putusan dan tanggal publikasi (37 hari pada fixture).</td></tr>
+          <tr><td>IND-03</td><td>Rasio Penyelesaian Perkara</td><td><span class="badge">DERIVED (Sintetis)</span></td><td>Perkara putus / perkara masuk (87,57% pada fixture PN Jkt.Sel).</td></tr>
+          <tr><td>IND-04 s.d. IND-10</td><td>Sisa Perkara, Durasi, Kelengkapan Metadata, Verifiabilitas, Cakupan Geografis, Aksesibilitas, Reproduksibilitas</td><td><span class="badge">SIAP UJI</span></td><td>Tidak ada pemeringkatan hakim individu atau peringkat nasional tanpa metodologi tervalidasi.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="transparansi">
+      <h2>4. Transparansi Publikasi</h2>
+      <p>Laporan Tahunan Kepaniteraan MA RI 2024 mencatat 9.382.440 koleksi putusan per 31 Desember 2024 (<a href="https://kepaniteraan.mahkamahagung.go.id/images/Glosarium/LaptahKepaniteraan2024.pdf" target="_blank" rel="noopener">Laptah Kepaniteraan 2024</a>). Pengumpulan otomatis dibatasi oleh kebijakan akses dan verifikasi <code>robots.txt</code>.</p>
+    </section>
+
+    <section id="kualitas">
+      <h2>5. Kualitas Data &amp; Penanganan Data Hilang</h2>
+      <p>Setiap baris data memiliki status <code>VERIFIED</code>, <code>DERIVED</code>, atau <code>UNVERIFIED</code>. Nilai yang hilang tidak pernah diimputasi menjadi nol dan dicatat dalam <em>Data Quality Register</em> (<code>DS07</code>).</p>
+    </section>
+
+    <section id="riset">
+      <h2>6. Riset dan Ringkasan Kebijakan</h2>
+      <p>Menjawab 12 Pertanyaan Riset (RQ01–RQ12) lintas 6 dimensi: Transparansi, Aksesibilitas, Efisiensi, Akuntabilitas, Kualitas Informasi, dan Nilai Publik. Lihat <code>reports/technical_reports/IOJO_Technical_Pilot_Report_v1.0.md</code>.</p>
+    </section>
+
+    <section id="unduh">
+      <h2>7. Unduh Dataset Terverifikasi</h2>
+      <p>Rilis dataset publik (Institusi, Statistik Perkara, Metadata Putusan, Indikator Transparansi) memerlukan persetujuan manusia sebelum dipublikasikan ke GitHub dan Kaggle.</p>
+    </section>
+
+    <section id="metodologi">
+      <h2>8. Metodologi dan Keterbatasan</h2>
+      <p>Data yang hilang tidak diasumsikan sebagai kinerja buruk. Perbandingan antar pengadilan selalu mempertimbangkan beban perkara, yurisdiksi, jenis perkara, periode pelaporan, dan kelengkapan data.</p>
+    </section>
+  </main>
+
+  <footer>
+    Indonesia Open Justice Observatory (IOJO) &bull; Lisensi Kode: MIT &bull; Direktur Riset: Cecep Mustafa, Ph.D.
+  </footer>
+</body>
+</html>

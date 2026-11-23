@@ -1,0 +1,121 @@
+statistic_id,court_id,reporting_period,case_category,incoming_cases,resolved_cases,pending_cases,source_document,source_page,retrieval_date,validation_status
+STAT-LAP25-P014-T01-R003,INST-MA-000,2025,Kamar Perdata [p.14 t.1]: Perdata,6395.0,6299.0,110.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,14,2026-11-23,VERIFIED
+STAT-LAP25-P014-T01-R004,INST-MA-000,2025,Kamar Perdata [p.14 t.1]: Perdata Khusus,1398.0,1405.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,14,2026-11-23,VERIFIED
+STAT-LAP25-P014-T01-R005,INST-MA-000,2025,Kamar Perdata [p.14 t.1]: Jumlah,7793.0,7704.0,110.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,14,2026-11-23,VERIFIED
+STAT-LAP25-P014-T01-R006,INST-MA-000,2025,Kamar Perdata [p.14 t.1]: 9.395,9395.0,9339.0,146.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,14,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R001,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Perbuatan Melawan Hukum,,3874.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R002,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Tanah,,398.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R003,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Wanprestasi,,924.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Perlawanan,,447.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Perikatan,,96.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R006,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Perceraian,,259.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R007,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Pembatalan,,33.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R008,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Waris,,49.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R009,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Penetapan,,61.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R010,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Harta Bersama,,61.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R011,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Sengketa,,11.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R012,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Hibah,,4.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R013,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Adopsi,,7.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R014,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Class Action,,3.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R015,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: lain-lain,,72.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P015-T01-R016,INST-MA-000,2025,Rasio Produktivitas Memutus [p.15 t.1]: Total,,6299.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,15,2026-11-23,VERIFIED
+STAT-LAP25-P026-T01-R005,INST-MA-000,2025,Kamar Agama [p.26 t.1]: Perdata Agama,,1004.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,26,2026-11-23,VERIFIED
+STAT-LAP25-P026-T01-R006,INST-MA-000,2025,Kamar Agama [p.26 t.1]: Jinayah,,31.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,26,2026-11-23,VERIFIED
+STAT-LAP25-P027-T01-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.1]: Jumlah,,1035.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T01-R006,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.1]: 1.208,,1208.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T02-R001,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.2]: Cerai Gugat,,254.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T02-R002,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.2]: Kewarisan,,189.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T02-R003,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.2]: Cerai Talak,,185.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T02-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.2]: Harta Bersama,,164.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P027-T02-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.27 t.2]: Ekonomi Syariah,,53.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,27,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R001,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Hadhanah,,40.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R002,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Hibah,,22.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R003,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Perlawanan,,22.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Isbat Nikah,,21.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Pembatalan Hibah,,8.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R006,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Pembatalan Nikah,,7.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R007,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Wakaf,,7.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R008,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Nafkah Anak,,6.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R009,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Perwalian (Hibah),,5.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R010,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Asal Usul Anak,,4.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R011,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Wali Adhol,,4.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R012,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Wasiat,,4.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R013,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Lain-lain,,9.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P028-T01-R014,INST-MA-000,2025,Rasio Produktivitas Memutus [p.28 t.1]: Jumlah,,1004.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,28,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R001,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Kewarisan,,54.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R002,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Harta Bersama,,27.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R003,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Cerai Gugat,,28.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Cerai Talak,,31.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Hadhanah,,5.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R006,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Ekonomi Syariah,,9.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R007,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Perlawanan,,4.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R008,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Pembatalan Nikah,,6.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R009,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Hibah,,3.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R010,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Isbat Nikah,,2.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R011,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Lain-lain,,2.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P029-T01-R012,INST-MA-000,2025,Rasio Produktivitas Memutus [p.29 t.1]: Jumlah,,171.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,29,2026-11-23,VERIFIED
+STAT-LAP25-P031-T01-R002,INST-MA-000,2025,Kamar Militer [p.31 t.1]: Kasasi,,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,31,2026-11-23,VERIFIED
+STAT-LAP25-P031-T01-R003,INST-MA-000,2025,Kamar Militer [p.31 t.1]: Peninjauan Kembali,,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,31,2026-11-23,VERIFIED
+STAT-LAP25-P031-T01-R004,INST-MA-000,2025,Kamar Militer [p.31 t.1]: Grasi,,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,31,2026-11-23,VERIFIED
+STAT-LAP25-P031-T01-R005,INST-MA-000,2025,Kamar Militer [p.31 t.1]: Jumlah,,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,31,2026-11-23,VERIFIED
+STAT-LAP25-P037-T02-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.37 t.2]: Pidana Umum,10.0,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,37,2026-11-23,VERIFIED
+STAT-LAP25-P037-T02-R005,INST-MA-000,2025,Rasio Produktivitas Memutus [p.37 t.2]: Pidana Khusus,58.0,,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,37,2026-11-23,VERIFIED
+STAT-LAP25-P045-T01-R002,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.45 t.1]: 318
+447
+12
+11",857.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,45,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R002,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 99,2",992.0,6.0,7.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R003,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 99,4",994.0,7.0,5.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R005,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 99,0",990.0,8.0,9.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R006,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 99,1",991.0,0.0,9.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R008,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 99,0",990.0,4.0,9.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R010,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 98,9",989.0,3.0,10.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R011,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 95,11",9511.0,489.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R013,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 92,23%",9223.0,777.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R014,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 87,31%",8731.0,1269.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T01-R016,INST-MA-000,2025,"Rasio Produktivitas Memutus [p.46 t.1]: 78,5",785.0,3.0,214.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,UNVERIFIED
+STAT-LAP25-P046-T02-R002,INST-MA-000,2025,Rasio Produktivitas Memutus [p.46 t.2]: Pidana,2474.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,VERIFIED
+STAT-LAP25-P046-T02-R003,INST-MA-000,2025,Rasio Produktivitas Memutus [p.46 t.2]: Pidana Khusus,15917.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,VERIFIED
+STAT-LAP25-P046-T02-R004,INST-MA-000,2025,Rasio Produktivitas Memutus [p.46 t.2]: Perdata,7945.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,46,2026-11-23,VERIFIED
+STAT-LAP25-P047-T01-R002,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.1]: Perdata Khusus,1450.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,VERIFIED
+STAT-LAP25-P047-T01-R003,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.1]: Perdata Agama/Jinayah,1208.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,VERIFIED
+STAT-LAP25-P047-T01-R004,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.1]: Pidana Militer,318.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,VERIFIED
+STAT-LAP25-P047-T01-R005,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.1]: Tata Usaha Negara,8606.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,VERIFIED
+STAT-LAP25-P047-T01-R006,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.1]: Jumlah,37918.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,VERIFIED
+STAT-LAP25-P047-T04-R003,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: 1 s.d. 3,13.0,36.0,612.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P047-T04-R004,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: Row 4,24.0,,,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P047-T04-R006,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: Pidana,2473.0,1.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P047-T04-R007,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: Pidana Khusus,15907.0,10.0,3.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P047-T04-R008,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: Perdata,7812.0,48.0,19.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P047-T04-R009,INST-MA-000,2025,Rerata Waktu Memutus [p.47 t.4]: Perdata Khusus,1443.0,8.0,6.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,47,2026-11-23,UNVERIFIED
+STAT-LAP25-P048-T01-R001,INST-MA-000,2025,Rerata Waktu Minutasi [p.48 t.1]: Pidana Militer,317.0,1.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,48,2026-11-23,UNVERIFIED
+STAT-LAP25-P048-T01-R002,INST-MA-000,2025,"Rerata Waktu Minutasi [p.48 t.1]: Tata Usaha
+Negara",8633.0,68.0,4.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,48,2026-11-23,UNVERIFIED
+STAT-LAP25-P048-T01-R003,INST-MA-000,2025,Rerata Waktu Minutasi [p.48 t.1]: Jumlah,37791.0,138.0,32.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,48,2026-11-23,UNVERIFIED
+STAT-LAP25-P048-T01-R004,INST-MA-000,2025,Rerata Waktu Minutasi [p.48 t.1]: %,9952.0,36.0,8.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,48,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R003,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: 1 sd 3,13.0,36.0,612.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R005,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Pidana,2265.0,21.0,18.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R006,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Pidana Khusus,14923.0,192.0,73.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R007,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Perdata,7609.0,623.0,42.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R008,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Perdata Khusus,1281.0,63.0,8.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R009,INST-MA-000,2025,"Rerata Waktu Minutasi [p.49 t.1]: Perdata
+Agama/Jinayah",1096.0,7.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R010,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Pidana Militer,307.0,1.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R011,INST-MA-000,2025,"Rerata Waktu Minutasi [p.49 t.1]: Tata Usaha
+Negara",8247.0,14.0,7.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R012,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: Jumlah,35728.0,921.0,148.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P049-T01-R013,INST-MA-000,2025,Rerata Waktu Minutasi [p.49 t.1]: %,9674.0,249.0,40.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,49,2026-11-23,UNVERIFIED
+STAT-LAP25-P050-T01-R001,INST-MA-000,2025,"Perkara Belum Minutasi [p.50 t.1]: di atas 3
+Bulan
+(tunggakan)",3.0,3.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,50,2026-11-23,UNVERIFIED
+STAT-LAP25-P050-T01-R005,INST-MA-000,2025,Perkara Belum Minutasi [p.50 t.1]: Pidana,198.0,22.0,1111.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,50,2026-11-23,UNVERIFIED
+STAT-LAP25-P050-T01-R006,INST-MA-000,2025,Perkara Belum Minutasi [p.50 t.1]: Pidana Khusus,1287.0,218.0,1694.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,50,2026-11-23,UNVERIFIED
+STAT-LAP25-P050-T01-R007,INST-MA-000,2025,Perkara Belum Minutasi [p.50 t.1]: Perdata,1818.0,1.0,6.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,50,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R001,INST-MA-000,2025,"Perkara Belum Minutasi [p.51 t.1]: di atas 3
+Bulan
+(tunggakan)",3.0,3.0,,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R005,INST-MA-000,2025,Perkara Belum Minutasi [p.51 t.1]: Perdata Khusus,156.0,0.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R006,INST-MA-000,2025,Perkara Belum Minutasi [p.51 t.1]: Perdata Agama,318.0,0.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R007,INST-MA-000,2025,Perkara Belum Minutasi [p.51 t.1]: Pidana Militer,0.0,0.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R008,INST-MA-000,2025,Perkara Belum Minutasi [p.51 t.1]: Tata Usaha Negara,1587.0,0.0,0.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED
+STAT-LAP25-P051-T01-R009,INST-MA-000,2025,Perkara Belum Minutasi [p.51 t.1]: Jumlah,5364.0,241.0,449.0,Laporan Tahunan Kepaniteraan MA RI TA 2025,51,2026-11-23,UNVERIFIED

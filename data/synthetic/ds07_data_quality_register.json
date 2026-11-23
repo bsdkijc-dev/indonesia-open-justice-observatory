@@ -1,0 +1,13 @@
+[
+  {
+    "record_id": "DQR-SYN-0001",
+    "dataset_name": "DS02_case_statistics",
+    "source": "SYNTHETIC_TEST_FIXTURE",
+    "missing_fields": "resolved_cases;pending_cases;source_page (STAT-SYN-0005)",
+    "duplicate_status": "NO_DUPLICATES",
+    "validation_status": "VERIFIED",
+    "reviewer": "VALIDATION_AGENT",
+    "review_date": "2026-11-23",
+    "correction_notes": "Preserved nulls per zero-imputation policy; STAT-SYN-0005 marked UNVERIFIED."
+  }
+]

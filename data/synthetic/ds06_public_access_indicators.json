@@ -1,0 +1,26 @@
+[
+  {
+    "indicator_id": "IND-03-SYN-001",
+    "court_id": "INST-PN-JKT-SEL",
+    "reporting_period": "2024",
+    "indicator_name": "Case Clearance Rate (resolved / incoming)",
+    "indicator_value": 87.57,
+    "unit": "percent",
+    "denominator": "1850",
+    "source": "DS02:STAT-SYN-0002",
+    "calculation_method": "(resolved_cases / incoming_cases) * 100",
+    "validation_status": "DERIVED"
+  },
+  {
+    "indicator_id": "IND-02-SYN-001",
+    "court_id": "INST-MA-000",
+    "reporting_period": "2024",
+    "indicator_name": "Publication Timeliness",
+    "indicator_value": 37.0,
+    "unit": "days",
+    "denominator": "1",
+    "source": "DS03:PUB-SYN-0001",
+    "calculation_method": "publication_date - decision_date",
+    "validation_status": "DERIVED"
+  }
+]

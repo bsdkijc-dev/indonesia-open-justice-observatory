@@ -1,0 +1,22 @@
+[
+  {
+    "service_id": "SVC-SYN-0001",
+    "court_id": "INST-MA-000",
+    "service_category": "e-Court",
+    "service_description": "Pendaftaran perkara dan persidangan elektronik (memerlukan akun terdaftar).",
+    "official_url": "https://ecourt.mahkamahagung.go.id",
+    "accessibility_status": "RESTRICTED",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "service_id": "SVC-SYN-0002",
+    "court_id": "INST-MA-000",
+    "service_category": "Laporan Tahunan",
+    "service_description": "Publikasi PDF Laporan Tahunan Kepaniteraan Mahkamah Agung RI.",
+    "official_url": "https://kepaniteraan.mahkamahagung.go.id/id/publikasi/laporan-tahunan",
+    "accessibility_status": "ACCESSIBLE",
+    "last_verified": "2026-11-23",
+    "validation_status": "VERIFIED"
+  }
+]

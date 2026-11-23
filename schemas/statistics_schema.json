@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dataset 02 - Judicial Case Statistics",
+  "type": "object",
+  "required": [
+    "statistic_id",
+    "court_id",
+    "reporting_period",
+    "case_category",
+    "source_document",
+    "retrieval_date",
+    "validation_status"
+  ],
+  "properties": {
+    "statistic_id": {"type": "string", "pattern": "^STAT-[A-Z0-9-]+$"},
+    "court_id": {"type": "string", "pattern": "^INST-[A-Z0-9-]+$"},
+    "reporting_period": {"type": "string", "minLength": 4},
+    "case_category": {"type": "string"},
+    "incoming_cases": {"type": ["integer", "null"], "minimum": 0},
+    "resolved_cases": {"type": ["integer", "null"], "minimum": 0},
+    "pending_cases": {"type": ["integer", "null"], "minimum": 0},
+    "source_document": {"type": "string"},
+    "source_page": {"type": ["integer", "string", "null"]},
+    "retrieval_date": {"type": "string", "format": "date"},
+    "validation_status": {"type": "string", "enum": ["VERIFIED", "DERIVED", "UNVERIFIED"]}
+  },
+  "additionalProperties": false
+}

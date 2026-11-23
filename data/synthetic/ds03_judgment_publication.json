@@ -1,0 +1,41 @@
+[
+  {
+    "publication_id": "PUB-SYN-0001",
+    "case_number": "123 K/Pdt/2024 (SYNTHETIC)",
+    "court_name": "Mahkamah Agung Republik Indonesia",
+    "decision_date": "2024-05-14",
+    "publication_date": "2024-06-20",
+    "document_url": "https://putusan3.mahkamahagung.go.id/direktori/putusan/synthetic-0001.html",
+    "document_type": "Putusan",
+    "document_hash": "027405771be2c4628bbde8b7c3ba2a205a19dc3f2a720cdd0cc35f0452a3bb1b",
+    "source_url": "https://putusan3.mahkamahagung.go.id",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "publication_id": "PUB-SYN-0002",
+    "case_number": "45/Pdt.G/2024/PN Jkt.Sel (SYNTHETIC)",
+    "court_name": "Pengadilan Negeri Jakarta Selatan",
+    "decision_date": "2024-07-02",
+    "publication_date": "2024-07-18",
+    "document_url": "https://putusan3.mahkamahagung.go.id/direktori/putusan/synthetic-0002.html",
+    "document_type": "Putusan",
+    "document_hash": "71c66324bcdfbf6e12ddd33b7ec4e0cc1264d6d6a17a7dca1e4fe860a5cc75ea",
+    "source_url": "https://putusan3.mahkamahagung.go.id",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "VERIFIED"
+  },
+  {
+    "publication_id": "PUB-SYN-0003",
+    "case_number": "88/Pdt.G/2024/PA.Bdg (SYNTHETIC)",
+    "court_name": "Pengadilan Agama Bandung",
+    "decision_date": "2024-08-11",
+    "publication_date": null,
+    "document_url": null,
+    "document_type": "Putusan",
+    "document_hash": null,
+    "source_url": "https://putusan3.mahkamahagung.go.id",
+    "retrieval_date": "2026-11-23",
+    "validation_status": "UNVERIFIED"
+  }
+]

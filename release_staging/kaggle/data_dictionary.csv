@@ -1,0 +1,78 @@
+dataset_id,dataset_name,field_name,data_type,nullable,description,validation_rule
+DS01,Judicial Institutions,institution_id,string,false,Unique IOJO court identifier,Pattern ^INST-[A-Z0-9-]+$
+DS01,Judicial Institutions,court_name,string,false,Official court name,Non-empty string
+DS01,Judicial Institutions,court_type,string,false,Court tier,Enum: Mahkamah Agung|Tingkat Banding|Tingkat Pertama|Pengadilan Khusus
+DS01,Judicial Institutions,jurisdiction,string,false,Judicial environment,Enum: Umum|Agama|Tata Usaha Negara|Militer|Mahkamah Agung
+DS01,Judicial Institutions,province,string,true,Province name,Null allowed for national apex court
+DS01,Judicial Institutions,district,string,true,District or municipality,Null allowed for appellate/apex courts
+DS01,Judicial Institutions,official_source,string,false,Issuing institution name,Non-empty string
+DS01,Judicial Institutions,source_url,uri,false,Traceable official URL,Valid HTTP/HTTPS URI
+DS01,Judicial Institutions,last_verified,date,false,Date of last verification,ISO-8601 YYYY-MM-DD
+DS01,Judicial Institutions,validation_status,string,false,Record validation state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS02,Judicial Case Statistics,statistic_id,string,false,Unique statistic row ID,Pattern ^STAT-[A-Z0-9-]+$
+DS02,Judicial Case Statistics,court_id,string,false,Foreign key to DS01 institution_id,Must exist in DS01
+DS02,Judicial Case Statistics,reporting_period,string,false,Reporting year or quarter,e.g. 2024 or 2024-Q1
+DS02,Judicial Case Statistics,case_category,string,false,Case classification,e.g. Perdata|Pidana|Agama|TUN|Militer
+DS02,Judicial Case Statistics,incoming_cases,integer,true,Incoming cases in period,Zero-imputation: null if unavailable; >=0
+DS02,Judicial Case Statistics,resolved_cases,integer,true,Resolved cases in period,Zero-imputation: null if unavailable; >=0
+DS02,Judicial Case Statistics,pending_cases,integer,true,Pending cases at period end,Zero-imputation: null if unavailable; >=0
+DS02,Judicial Case Statistics,source_document,string,false,Official source document title,Non-empty string
+DS02,Judicial Case Statistics,source_page,string,true,Page or table reference,Optional string/integer
+DS02,Judicial Case Statistics,retrieval_date,date,false,Date retrieved,ISO-8601 YYYY-MM-DD
+DS02,Judicial Case Statistics,validation_status,string,false,Record validation state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS03,Judgment Publication,publication_id,string,false,Unique publication record ID,Pattern ^PUB-[A-Z0-9-]+$
+DS03,Judgment Publication,case_number,string,false,Official anonymized case number,Non-empty string; no PII
+DS03,Judgment Publication,court_name,string,false,Issuing court name,Non-empty string
+DS03,Judgment Publication,decision_date,date,true,Date decision was pronounced,ISO-8601 YYYY-MM-DD or null
+DS03,Judgment Publication,publication_date,date,true,Date published online,ISO-8601 >= decision_date or null
+DS03,Judgment Publication,document_url,uri,true,Direct document URL,Valid URI or null
+DS03,Judgment Publication,document_type,string,true,Format or decision type,e.g. Putusan|Penetapan
+DS03,Judgment Publication,document_hash,string,true,SHA-256 checksum of metadata/file,64-char hex or null
+DS03,Judgment Publication,source_url,uri,false,Source listing URL,Valid HTTP/HTTPS URI
+DS03,Judgment Publication,retrieval_date,date,false,Date retrieved,ISO-8601 YYYY-MM-DD
+DS03,Judgment Publication,validation_status,string,false,Record validation state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS04,Judicial Service Information,service_id,string,false,Unique service record ID,Pattern ^SVC-[A-Z0-9-]+$
+DS04,Judicial Service Information,court_id,string,false,Foreign key to DS01,Must exist in DS01
+DS04,Judicial Service Information,service_category,string,false,Service type,e.g. e-Court|PPID|PTSP|Posbakum
+DS04,Judicial Service Information,service_description,string,false,Plain-language service summary,Non-empty string
+DS04,Judicial Service Information,official_url,uri,true,Official service URL,Valid URI or null
+DS04,Judicial Service Information,accessibility_status,string,false,Public usability state,Enum: ACCESSIBLE|PARTIAL|RESTRICTED|UNAVAILABLE
+DS04,Judicial Service Information,last_verified,date,false,Date verified,ISO-8601 YYYY-MM-DD
+DS04,Judicial Service Information,validation_status,string,false,Record validation state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS05,Judicial Regulations,regulation_id,string,false,Unique regulation ID,Pattern ^REG-[A-Z0-9-]+$
+DS05,Judicial Regulations,regulation_number,string,false,Official regulation number,Non-empty string
+DS05,Judicial Regulations,regulation_year,integer,false,Year enacted,4-digit year
+DS05,Judicial Regulations,regulation_type,string,false,Instrument type,Enum: PERMA|SEMA|SK KMA|UU|PP
+DS05,Judicial Regulations,title,string,false,Official regulation title,Non-empty string
+DS05,Judicial Regulations,effective_date,date,true,Effective date,ISO-8601 or null
+DS05,Judicial Regulations,status,string,false,Legal force status,Enum: BERLAKU|DICABUT|DIUBAH|UNKNOWN
+DS05,Judicial Regulations,official_source,string,false,Issuing/hosting repository,e.g. JDIH MA RI
+DS05,Judicial Regulations,source_url,uri,false,Official regulation URL,Valid HTTP/HTTPS URI
+DS05,Judicial Regulations,verification_status,string,false,Verification state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS06,Public Access Indicators,indicator_id,string,false,Unique indicator row ID,Pattern ^IND-[A-Z0-9-]+$
+DS06,Public Access Indicators,court_id,string,false,Court or NATIONAL_AGGREGATE,String ID
+DS06,Public Access Indicators,reporting_period,string,false,Reporting period,Non-empty string
+DS06,Public Access Indicators,indicator_name,string,false,Standardized indicator name,Non-empty string
+DS06,Public Access Indicators,indicator_value,number,true,Calculated numeric value,Null if denominator missing
+DS06,Public Access Indicators,unit,string,false,Measurement unit,e.g. percent|days|count
+DS06,Public Access Indicators,denominator,string,true,Denominator value or definition,Null if not applicable
+DS06,Public Access Indicators,source,string,false,Source dataset or document,Non-empty string
+DS06,Public Access Indicators,calculation_method,string,false,Explicit formula,Non-empty string
+DS06,Public Access Indicators,validation_status,string,false,Record validation state,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS07,Data Quality Register,record_id,string,false,Unique audit record ID,Pattern ^DQR-[A-Z0-9-]+$
+DS07,Data Quality Register,dataset_name,string,false,Target dataset name,Non-empty string
+DS07,Data Quality Register,source,string,false,Source under audit,Non-empty string
+DS07,Data Quality Register,missing_fields,string,true,List of missing fields,Semicolon-separated or empty
+DS07,Data Quality Register,duplicate_status,string,false,Duplicate check outcome,Enum: NO_DUPLICATES|DUPLICATES_FLAGGED|RESOLVED
+DS07,Data Quality Register,validation_status,string,false,Audit status,Enum: VERIFIED|DERIVED|UNVERIFIED
+DS07,Data Quality Register,reviewer,string,false,Agent or human reviewer,Non-empty string
+DS07,Data Quality Register,review_date,date,false,Audit date,ISO-8601 YYYY-MM-DD
+DS07,Data Quality Register,correction_notes,string,true,Audit notes and variance log,Optional string
+DS08,Public Research Metadata,research_id,string,false,Unique research metadata ID,Pattern ^RES-[A-Z0-9-]+$
+DS08,Public Research Metadata,dataset_id,string,false,Target dataset ID,DS01-DS07
+DS08,Public Research Metadata,research_question,string,false,Mapped RQ IDs,e.g. RQ01;RQ02
+DS08,Public Research Metadata,methodology,string,false,Analytical method summary,Non-empty string
+DS08,Public Research Metadata,limitations,string,false,Explicit limitations,Non-empty string
+DS08,Public Research Metadata,publication_date,date,true,Release date,ISO-8601 or null
+DS08,Public Research Metadata,repository_url,uri,false,GitHub or Kaggle URL,Valid HTTP/HTTPS URI
+DS08,Public Research Metadata,citation,string,false,Recommended citation,Non-empty string

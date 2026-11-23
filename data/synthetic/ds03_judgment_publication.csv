@@ -1,0 +1,4 @@
+publication_id,case_number,court_name,decision_date,publication_date,document_url,document_type,document_hash,source_url,retrieval_date,validation_status
+PUB-SYN-0001,123 K/Pdt/2024 (SYNTHETIC),Mahkamah Agung Republik Indonesia,2024-05-14,2024-06-20,https://putusan3.mahkamahagung.go.id/direktori/putusan/synthetic-0001.html,Putusan,027405771be2c4628bbde8b7c3ba2a205a19dc3f2a720cdd0cc35f0452a3bb1b,https://putusan3.mahkamahagung.go.id,2026-11-23,VERIFIED
+PUB-SYN-0002,45/Pdt.G/2024/PN Jkt.Sel (SYNTHETIC),Pengadilan Negeri Jakarta Selatan,2024-07-02,2024-07-18,https://putusan3.mahkamahagung.go.id/direktori/putusan/synthetic-0002.html,Putusan,71c66324bcdfbf6e12ddd33b7ec4e0cc1264d6d6a17a7dca1e4fe860a5cc75ea,https://putusan3.mahkamahagung.go.id,2026-11-23,VERIFIED
+PUB-SYN-0003,88/Pdt.G/2024/PA.Bdg (SYNTHETIC),Pengadilan Agama Bandung,2024-08-11,,,Putusan,,https://putusan3.mahkamahagung.go.id,2026-11-23,UNVERIFIED

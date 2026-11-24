@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research infrastructure, schemas, or datasets, please cite it as below."
+title: "Indonesia Open Justice Observatory (IOJO)"
+version: "1.0.0-pilot"
+date-released: "2026-11-23"
+authors:
+  - family-names: "Mustafa"
+    given-names: "Cecep"
+    orcid: ""
+    email: "cecepmustafa97@gmail.com"
+repository-code: "https://github.com/bsdkijc-dev/indonesia-open-justice-observatory"
+keywords:
+  - judicial transparency
+  - open justice
+  - Indonesia
+  - Mahkamah Agung
+  - judicial performance indicators
+  - data quality
+license: "MIT"
+abstract: "Independent, evidence-based judicial research infrastructure transforming verified, lawfully accessible public Indonesian judicial information into reproducible performance research, accountability indicators, and policy intelligence."

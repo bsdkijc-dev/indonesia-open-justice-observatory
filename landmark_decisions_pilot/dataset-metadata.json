@@ -1,0 +1,18 @@
+{
+  "title": "MA RI Landmark Decisions Pilot Dataset",
+  "id": "judicialcollege/ma-ri-landmark-decisions-pilot",
+  "subtitle": "32 verified PK and Cassation decisions with privacy-gated metadata",
+  "isPrivate": true,
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "indonesia",
+    "government",
+    "open data",
+    "nlp"
+  ]
+}

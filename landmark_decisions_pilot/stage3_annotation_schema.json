@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsdkijc-dev/indonesia-open-justice-observatory/schemas/stage3_annotation_schema.json",
+  "title": "MA RI Open Justice Stage 3 Judicial Decision Annotation Schema v1.0",
+  "description": "Structured 9-part annotation schema separating official judicial content from independent research commentary, with zero-fabrication and zero-imputation controls.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "record_id",
+    "provenance",
+    "official_judicial_content",
+    "independent_research_commentary",
+    "completeness_flags"
+  ],
+  "properties": {
+    "record_id": { "type": "string", "pattern": "^DEC-[0-9]{4}-[0-9]{3,4}$" },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["decision_number", "proceeding_level", "chamber", "decision_year", "pages", "drive_source_url", "sha256_checksum", "privacy_gate_status"],
+      "properties": {
+        "decision_number": { "type": "string" },
+        "proceeding_level": { "type": "string", "enum": ["PK", "Kasasi", "Uji Pendapat"] },
+        "chamber": { "type": "string" },
+        "decision_year": { "type": "integer" },
+        "pages": { "type": "integer", "minimum": 1 },
+        "drive_source_url": { "type": "string", "format": "uri" },
+        "sha256_checksum": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "privacy_gate_status": { "type": "string" }
+      }
+    },
+    "official_judicial_content": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "case_identification_and_history",
+        "legal_issues_excerpt",
+        "parties_arguments_excerpt",
+        "applicable_legal_provisions",
+        "judicial_reasoning_excerpt",
+        "legal_holdings_excerpt",
+        "final_disposition_amar",
+        "relevant_precedents_cited"
+      ],
+      "properties": {
+        "case_identification_and_history": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["lower_court_references", "decision_date_text"],
+          "properties": {
+            "lower_court_references": { "type": "array", "items": { "type": "string" } },
+            "decision_date_text": { "type": ["string", "null"] }
+          }
+        },
+        "legal_issues_excerpt": { "type": ["string", "null"] },
+        "parties_arguments_excerpt": { "type": ["string", "null"] },
+        "applicable_legal_provisions": { "type": "array", "items": { "type": "string" } },
+        "judicial_reasoning_excerpt": { "type": ["string", "null"] },
+        "legal_holdings_excerpt": { "type": ["string", "null"] },
+        "final_disposition_amar": { "type": ["string", "null"] },
+        "relevant_precedents_cited": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "independent_research_commentary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["is_official_ma_position", "privacy_and_redaction_note", "observatory_tag"],
+      "properties": {
+        "is_official_ma_position": { "type": "boolean", "const": false },
+        "privacy_and_redaction_note": { "type": "string" },
+        "observatory_tag": { "type": "string" }
+      }
+    },
+    "completeness_flags": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fields_populated", "fields_total", "extraction_method"],
+      "properties": {
+        "fields_populated": { "type": "integer", "minimum": 0 },
+        "fields_total": { "type": "integer", "minimum": 1 },
+        "extraction_method": { "type": "string" }
+      }
+    }
+  }
+}

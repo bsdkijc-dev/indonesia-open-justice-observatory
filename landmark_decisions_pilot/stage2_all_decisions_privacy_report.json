@@ -1,0 +1,424 @@
+[
+  {
+    "record_id": "DEC-2026-001",
+    "decision_number": "419 PK/Pdt/2026",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 11,
+    "sha256": "42cc9dc948d05aa82bd6d6970dc83fa006f6de58f1ae6990c27397c67d4443a3",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2026-002",
+    "decision_number": "16 PK/Pdt/2026",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 10,
+    "sha256": "882bcbef6fc843206905749cda99576bf69aa20a72b40ddf31c906cd70ac8a82",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-003",
+    "decision_number": "868 PK/Pdt/2026",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 13,
+    "sha256": "eb480778901acd656fddcd491b430dac82f41642cd70323446515e72f804e96b",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2026-004",
+    "decision_number": "566 PK/Pdt/2026",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 18,
+    "sha256": "bf9de1ff2a5d8a700b6de6b3ec0f5a0a0c84c7022fc216f3225334c67b4136e9",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2026-005",
+    "decision_number": "613 PK/Pdt/2026",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 19,
+    "sha256": "43d054d58a141f35def7ce5e47887bf082c8e476444225d06802bb323729e979",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-006",
+    "decision_number": "738 PK/Pdt/2025",
+    "proceeding_level": "PK",
+    "chamber": "Perdata",
+    "pages": 8,
+    "sha256": "8d9dda644d66564563d1f727d94a6316e2fc46519a5373b549c402e583919e62",
+    "sk_kma_2_144_category": "CAT_4_FAMILY_MARRIAGE_ADOPTION_WILLS_CLOSED",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-007",
+    "decision_number": "97 PK/Ag/2025",
+    "proceeding_level": "PK",
+    "chamber": "Agama",
+    "pages": 7,
+    "sha256": "73f636c679b5c849c83a8dc5fe003dd160bc2bf97a498e118411d41f42a03491",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2018-008",
+    "decision_number": "69 PK/Pid/2018",
+    "proceeding_level": "PK",
+    "chamber": "Pidana",
+    "pages": 9,
+    "sha256": "af6c483fcc1be35e2c3e5f8bdb40938855f8fb21e75766ea3a3c4f2506610cff",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_INDONESIAN_MOBILE_NUMBER",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-009",
+    "decision_number": "78 PK/Pid/2025",
+    "proceeding_level": "PK",
+    "chamber": "Pidana",
+    "pages": 18,
+    "sha256": "82883ae6e983ec2fab53e22832ac4835571c278b20d9d587d9ae9d4afdf42888",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_INDONESIAN_MOBILE_NUMBER"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-010",
+    "decision_number": "8 PK/Mil/2026",
+    "proceeding_level": "PK",
+    "chamber": "Militer",
+    "pages": 7,
+    "sha256": "3d92801dcad992ef4ec9bcc349f4331c7da186b6208bd9db94adea37361b61b0",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2026-011",
+    "decision_number": "4183 K/Pdt/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Perdata",
+    "pages": 23,
+    "sha256": "c5ef1e98aea3effea9e1899b0d3a2e474c930113e204a50aecd15cbc96129707",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-012",
+    "decision_number": "443 K/Pdt/2025",
+    "proceeding_level": "Kasasi",
+    "chamber": "Perdata",
+    "pages": 9,
+    "sha256": "ffe7367f063b3adf147230026579c27c2d103a0e0418e5a03f3f8f3d3201da22",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-013",
+    "decision_number": "1111 K/Pdt.Sus-Pailit/2025",
+    "proceeding_level": "Kasasi",
+    "chamber": "Perdata Khusus",
+    "pages": 6,
+    "sha256": "9e662a56b28cdbc448647d18a9e7e0540f72a7080fae79a0cc30356dabc583ba",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-014",
+    "decision_number": "1491 K/Pdt/2025",
+    "proceeding_level": "Kasasi",
+    "chamber": "Perdata",
+    "pages": 9,
+    "sha256": "b45d63c34eda95fee7831573993d69cf7256d4791afc8f930d480cb507e7461f",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-015",
+    "decision_number": "5287 K/Pdt/2025",
+    "proceeding_level": "Kasasi",
+    "chamber": "Perdata",
+    "pages": 29,
+    "sha256": "7c1a95a3ef91a798eef2a1f79c958a0b7f68e6e690ed6cbb7e241feb8e935e94",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-016",
+    "decision_number": "464 K/TUN/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "TUN",
+    "pages": 10,
+    "sha256": "28d9ae45c971d70f64ced361c325bbdb5d9e41edb2a40ff50a7052e27d17604b",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-017",
+    "decision_number": "346 K/TUN/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "TUN",
+    "pages": 8,
+    "sha256": "d6f114ea2c856c7c6ccf75380e58b917395dab41d3e8fe9bf1442aed9f0f6cd8",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-018",
+    "decision_number": "201 K/TUN/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "TUN",
+    "pages": 6,
+    "sha256": "0b5dc700ef0d873f9931bda6f7dfbae5ddacb105a7195a0ba16098f7545746f2",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-019",
+    "decision_number": "446 K/TUN/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "TUN",
+    "pages": 8,
+    "sha256": "49e0e5da24cf3c30d28616c50753d05199f9efc61d7a719bcb163607047e679e",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-020",
+    "decision_number": "742 K/TUN/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "TUN",
+    "pages": 8,
+    "sha256": "c4e8e4418aa22b0bf7e4e4fd3c357be0fb9ac0c5ea0e77d98e037649292e85b0",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-021",
+    "decision_number": "1 P/UP/2026",
+    "proceeding_level": "Uji Pendapat",
+    "chamber": "TUN",
+    "pages": 30,
+    "sha256": "1dba737d338a98765404065b0f07cddc9354c3848af1c2dc76f0bf4906c49c8b",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-022",
+    "decision_number": "492 K/Ag/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Agama",
+    "pages": 8,
+    "sha256": "ad42980f911020203856723781df981588876e184cca4c11dba39fa2e98f21be",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2024-023",
+    "decision_number": "324 K/Ag/2024",
+    "proceeding_level": "Kasasi",
+    "chamber": "Agama",
+    "pages": 7,
+    "sha256": "6f4793497a81b8be3a48a9abe05792f0b6d526ce4d6fe03293bf8856ee08d9c9",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2026-024",
+    "decision_number": "568 K/Ag/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Agama",
+    "pages": 26,
+    "sha256": "c27a3b621103c02946c316c5db01161b65a316842b7a5bea018710ae49e45b42",
+    "sk_kma_2_144_category": "CAT_4_FAMILY_MARRIAGE_ADOPTION_WILLS_CLOSED",
+    "flags": [
+      "SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-025",
+    "decision_number": "205 K/Ag/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Agama",
+    "pages": 10,
+    "sha256": "8d2da2ac78f12fe8741e30c660b75e881818c9a816facf3b18a7c66a9d1aa48c",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-026",
+    "decision_number": "698 K/Ag/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Agama",
+    "pages": 14,
+    "sha256": "83de8ae5056d289c5deda0fbbc799ed96705a3d44a98f78e15c4e580b8bc0928",
+    "sk_kma_2_144_category": "CAT_4_FAMILY_MARRIAGE_ADOPTION_WILLS_CLOSED",
+    "flags": [
+      "SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2025-027",
+    "decision_number": "8432 K/Pid.Sus/2025",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana Khusus",
+    "pages": 89,
+    "sha256": "c4240331d8a9e80859b61950eddc4d8a1ed14ea30e2266c8cdad7e59410d1267",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-028",
+    "decision_number": "7734 K/Pid.Sus/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana Khusus",
+    "pages": 13,
+    "sha256": "7c7cb7c5d81531bec6512f7cf2d1df43eff3d20fb5b45eb64d1dc3d1d64047a9",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-029",
+    "decision_number": "7733 K/Pid.Sus/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana Khusus",
+    "pages": 77,
+    "sha256": "222265037d286deabd09b725628eb41e5461201bcf31a2a599968400c089a5a7",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_16_DIGIT_NIK_PATTERN",
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_INDONESIAN_MOBILE_NUMBER"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-030",
+    "decision_number": "7689 K/Pid.Sus/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana Khusus",
+    "pages": 14,
+    "sha256": "4fccae47b2eaca7992ed22519256cfc17bc5288768951bfbf5e94784fb56a41a",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  },
+  {
+    "record_id": "DEC-2026-031",
+    "decision_number": "330 K/Pid/2026",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana",
+    "pages": 8,
+    "sha256": "de57386f0faabe868a190e2febce0c2146534581da46efa2f4088c96c7c48bde",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [],
+    "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+  },
+  {
+    "record_id": "DEC-2017-032",
+    "decision_number": "498 K/Pid/2017",
+    "proceeding_level": "Kasasi",
+    "chamber": "Pidana",
+    "pages": 85,
+    "sha256": "c61b81cb2e138cc49a647356d40bd072bb31eb6c3b4a68843afcc52cb51f0b30",
+    "sk_kma_2_144_category": "NONE_GENERAL_OPEN",
+    "flags": [
+      "DETECTED_EMAIL_ADDRESS",
+      "DETECTED_INDONESIAN_MOBILE_NUMBER",
+      "DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2"
+    ],
+    "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+  }
+]

@@ -1,0 +1,1464 @@
+[
+  {
+    "record_id": "DEC-2026-001",
+    "provenance": {
+      "decision_number": "419 PK/Pdt/2026",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 11,
+      "drive_source_url": "https://drive.google.com/file/d/1yXjycxqlPLjlV6PVmv18KPs5LkE4GxUi/view?usp=drivesdk",
+      "sha256_checksum": "42cc9dc948d05aa82bd6d6970dc83fa006f6de58f1ae6990c27397c67d4443a3",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": null,
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": null,
+      "legal_holdings_excerpt": null,
+      "final_disposition_amar": null,
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "PK | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 0,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-002",
+    "provenance": {
+      "decision_number": "16 PK/Pdt/2026",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 10,
+      "drive_source_url": "https://drive.google.com/file/d/1psRbTcVXcp0dfAy7lxHagYaBTiutMQpB/view?usp=drivesdk",
+      "sha256_checksum": "882bcbef6fc843206905749cda99576bf69aa20a72b40ddf31c906cd70ac8a82",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "22/Pdt.G/2023/PN Tjb.",
+          "7/PDT/2024/PT MDN."
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Kamis, tanggal 5 Maret 2026 oleh I Gusti Agung Sumanatha, S"
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri tersebut pada tanggal 17 Juli 2025 itu juga; Menimbang, bahwa permohonan peninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan s aksama, Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 7 dari 10 hal. Put. Nomor 16 PK/Pdt/2026 diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena it u permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bahwa berdasarkan memori peninjauan",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan tersebut Mahkamah Agung berpendapat: Bahwa alasan tersebut dapat dibenarkan, oleh ka rena setelah meneliti Memori Peninjauan Kembali tanggal 17 Juli 2025 dan Kontra Memori Peninjauan K embali tanggal 6 Agustus 2025 dan tanggal 1 Agustus 2025 dihubungkan dengan pertimbangan Judex Juris , ternyata telah ditemukan adanya kekhilafan hakim atau k ekeliruan yang nyata , dengan pertimbangan sebagai berikut: Bahwa Penggugat mendasarkan dalil gugatannya atas adanya Surat Keputusan Menteri Kehutanan Nomor 579/Menhut -II/2014, tanggal 24 Juni 2014 tentang Penunjukan Kawasan Hutan Provinsi Sumatera Utara ya ng mengakibatkan sebagian lahan perkebunan k",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Tanjung Balai untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan Areal Perkebunan Aek Sakur, seluas 781,5 Ha (tujuh ratus delapan puluh satu koma lima hektar) yang terletak di Desa Gonting Malaha, Kecamatan Banda r Pulau, Kabupaten Asahan, Provinsi Sumatera Utara, berdasarkan Sertifikat Hak Guna Usaha Nomor 1/Desa Gonting Malaha tanggal 1 April 2003 atas nama PT Sumber Sawit Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BS",
+      "final_disposition_amar": "M E N G A D I L I: - Mengabulkan permohonan peninjauan kembali dari Pemohon Peninjauan Kembali MENTERI LINGKUNGAN HIDU P DAN KEHUTANAN (LHK) REPUBLIK INDONESIA tersebut; - Membatalkan Putusan Mahkamah Agung Nomor 4665 K/Pdt/2024 , tanggal 13 November 2024 juncto Putusan Pengadilan Tinggi Medan Nomor 7/PDT/2024/PT MDN., tanggal 22 Februari 2024 juncto Putusan Pengadilan Negeri Tanjung Balai Nomor 22/Pdt.G/2023/PN Tjb., tanggal 20 November 2023; MENGADILI KEMBALI: Dalam Eksepsi: - Menerima eksepsi Tergugat I dan Tergugat II; Dalam Pokok Perkara: - Menyatakan gugatan Penggugat tidak dapat diterima ( niet ontvankelijke verklaard); - Menghukum Termohon Peninjauan Kembali untuk mem",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 4665"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "PK | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-003",
+    "provenance": {
+      "decision_number": "868 PK/Pdt/2026",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 13,
+      "drive_source_url": "https://drive.google.com/file/d/1lQqCYK2lRk5XgaU9X0Ceo4Fe88uluD6I/view?usp=drivesdk",
+      "sha256_checksum": "eb480778901acd656fddcd491b430dac82f41642cd70323446515e72f804e96b",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "1/Akta.Pdt.PK/2026/PN Sbh Nomor Perkara",
+          "19/PDT/2024/PT MDN",
+          "19/PDT/2024/PT MDN juncto 8",
+          "8/Pdt.G/2023/PN Sbh"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan-alasan peninjauan kembali dari Pemohon Peninjauan Kembali tersebut Mahkamah Agung berpendapat sebagai berikut: Bahwa alasan P eninjauan Kembali Pemohon pada pokoknya didasarkan pada Pasal 67 huruf f U ndang Undang Mahkamah Agung, yaitu adanya kekhilafan hakim atau kekeliruan yang nyata dalam menentukan kompetensi absolut. Menurut Pemohon, perkara a quo merupakan sengketa hak keperdataan atas H ak Guna Usaha dan bukan perbuatan melanggar hukum oleh badan atau pejabat pemerintahan. Terhadap alasan tersebut, Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 10 dari 13 hal. Pu",
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri Sibuhuan tersebut pada tanggal 13 Januari 2026 ; Menimbang, bahwa permohonan peninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 13 Januari 2026 merupakan bagian tidak terpisahkan dari putusan ini, Pemohon Peninjauan Kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat kekh",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan tersebut Mahkamah Agung berpendapat: Bahwa setelah meneliti dan mencermati memori peninjauan kembali dan kontra memori peninjauan kembali para pihak dan dihubungkan dengan pertimbangan hukum putusan -putusan Judex Facti (Pengadilan Negeri Sibuhuan dan Pengadilan Tinggi Medan) dan Judex Juris (Kasasi), terhadap alasan-alasan peninjauan kembali dari Pemohon Peninjauan Kembali tersebut Mahkamah Agung berpendapat sebagai berikut: Bahwa alasan P eninjauan Kembali Pemohon pada pokoknya didasarkan pada Pasal 67 huruf f U ndang Undang Mahkamah Agung, yaitu adanya kekhilafan hakim atau kekeliruan yang nyata dalam menentukan kompetensi absolut. Men",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Sibuhuan untuk memberikan putusan sebagai berikut : 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan areal perkebunan Siali -ali, seluas 2.072 Ha (dua ribu tujuh puluh dua hektar), yang terletak di Desa Siali -ali, Kecamatan Lubuk Barumun, Kabupaten Padang Lawas, Provinsi Sumatera Utara, berdasarkan Sertifikat Hak Guna Usaha Nomor 1/Desa Siali -ali tanggal 21 Juni 1994 atas nama PT Sumber Sawit Makmur (Penggugat) yang diterbitkan oleh Turut Tergugat III c.q. Kepala Kantor Pertanahan Kabupaten Tapanuli Selatan adalah hak dan kepunyaan Pengguga",
+      "final_disposition_amar": "M E N G A D I L I: 1. Menolak permohonan peninjauan kembali dari Pemohon Peninjauan Kembali: PT SUMBER SAWIT MAKMUR tersebut; 2. Menghukum Pemohon Peninjauan Kembali untuk membayar biaya perkara dalam pemeriksaan peninjauan kembali ini sejumlah Rp2.000.000,00 (dua juta rupiah); Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Kamis, tanggal 1 Oktober 2026 oleh Prof. Dr. H. Hamdi, S.H., M.Hum., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Dr. Lucas Prakoso, S.H., M.Hum., dan Dr. Heru Pramono, S.H., M.Hum., Hakim -Hakim Agung sebagai Hakim Anggota dan diucapkan dalam sidang terbuka untuk umum pada hari itu juga oleh Ketua Maje",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 1645"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "PK | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-004",
+    "provenance": {
+      "decision_number": "566 PK/Pdt/2026",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 18,
+      "drive_source_url": "https://drive.google.com/file/d/1tEjN8_7t4ia-i62cyzgXIjdA7RQ0dau-/view?usp=drivesdk",
+      "sha256_checksum": "bf9de1ff2a5d8a700b6de6b3ec0f5a0a0c84c7022fc216f3225334c67b4136e9",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "1/PDT/2019/PT DPS",
+          "1/Pdt/2019/PT DPS",
+          "1/Pdt/2019/PT DPS tanggal 21 Febr",
+          "32/Pdt.G/2018/PN Srp"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan peninjauan kembali karena adanya novum bukti PK -1 sampai dengan PK-7 dipertimbangkan sebagai berikut;  Bahwa meskipun Penggugat menyatakan dirinya sebagai penggarap namun tidak dapat menunjukkan bukti-bukti kepemilikannya;  Bahwa bukti yang diajukan oleh Penggugat sebatas bukti pembayaran pajak yang pada dasarnya bukan merupakan bukti kepemilikan atas objek sengketa;  Bahwa bukti sertifikat yang diajukan oleh Penggugat adalah fotocopy dari fotocopy dan bukan atas nama Penggugat, sehingga tidak mempunyai nilai pembuktian;  Bahwa Pemohon Peninjauan Kembali mengajukan bukti baru ( novum) berupa Penafsiran Citra Satelit Resolusi Tinggi periode tahun 2003 sampai dengan 2024 (bukti PK",
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri tersebut pada hari dan tanggal itu juga; Menimbang, bahwa permohonan peninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bah wa berdasarkan memori peninjauan kembali yang diterima tanggal 11 November 2025 yang merupakan bagian tidak terpisahkan dari putusan ini, Pemohon Peninjauan Kembali pada pokoknya terdapat bukti baru dan mendalilkan dalam putusan a quo terdapa",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan tersebut Mahkamah Agung berpendapat: Menimbang, bahwa setelah meneliti secara saksama memori peninjauan kembali yang diterima tanggal 11 November 2025 serta kontra memori peninjauan kembali yang diterima tanggal 26 November 2025 dan 2 Desember 2025, dihubungkan dengan pertimbangan Judex Juris yang membatalkan putusan Judex Facti Pengadilan Tinggi Denpasar yang membatalkan putusan Pengadilan Negeri Semarapura terdapat bukti baru yang bersifat menentukan dengan pertimbangan sebagai berikut: – Bahwa bukti baru yang diajukan berupa: 1. Analisa Perubahan/Penggunaan Lahan di Kawasan Hutan pada Kasus Penguasaan Tanah di dalam Kawasan Hutan di Kecamatan Nusap",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Semarapura untuk memberikan putusan sebagai berikut: Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 3 dari 18 Hal. Putusan Nomor 566 PK/Pdt/2026 1. Mengabulkan gugatan Penggugat seluruhnya; 2. Menyatakan hukum Penggugat adalah merupakan salah satu ahli waris yang sah secara hukum dari Pan Cinta (almarhum); 3. Menyatakan hukum bahwa Penggugat adalah pemilik yang jujur dan beritikat baik sehingga wajib mendapatkan perlindungan secara hukum atas obyek tanah sengketa; 4.",
+      "final_disposition_amar": "M E N G A D I L I: 1. Mengabulkan permohonan peninjauan kembali dari Pemohon Peninjauan Kembali: PEMERINTAH REPUBLIK INDONESIA cq KEMENTERIAN KEHUTANAN DAN LINGKUNGAN HIDUP cq BAL AI PEMANTAPAN KAWASAN HUTAN WILAYAH VIII PROVINSI BALI tersebut; 2. Membatalkan Putusan Mahkamah Agung Nomor 2812 K/Pdt/2019 tanggal 29 Oktober 2019 , yang me mbatalkan Putusan Pengadilan Tinggi Denpasar Nomor 1/Pdt/2019/PT DPS, tanggal 21 Februari 2019 , yang membatalkan Putusan Pengadilan Negeri Semarapura Nomor 32/Pdt.G/2018/PN Srp, tanggal 15 November 2018; MENGADILI KEMBALI: Dalam Eksepsi: – Menolak eksepsi Tergugat II dan Turut Tergugat; Dokumen ini telah ditandatangani secara digital menggunakan sertifikat e",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 2812"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "PK | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-005",
+    "provenance": {
+      "decision_number": "613 PK/Pdt/2026",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 19,
+      "drive_source_url": "https://drive.google.com/file/d/1hJCIFVttMAEax0br-wlgsywqzAhsFhZz/view?usp=drivesdk",
+      "sha256_checksum": "43d054d58a141f35def7ce5e47887bf082c8e476444225d06802bb323729e979",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "397/Pdt.G/2023/PN Btm",
+          "50/PDT/2024/PT TPG"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Selasa, tanggal 18 Agustus 2026, oleh Dr"
+      },
+      "legal_issues_excerpt": "alasan peninjauan kembali dihubungkan dengan pertimbangan Judex Juris, dalam hal ini Judex Juris telah melakukan kekhilafan hakim atau kekeliruan yang nyata , dengan pertimbangan sebagai berikut: - Bahwa mengenai syarat formal, putusan kasasi diberitahukan kepada Pemohon Peninjauan Kembali pada 8 Agustus 2025, sedan gkan permohonan dan memori peninjauan kembali diaj ukan pada 21 November 2025, permohonan diajukan dalam tenggang waktu 180 hari dan secara formal dapat diterima berdasarkan Pasal 69 huruf c Undang- Undang Mahkamah Agung; - Bahwa mengenai kewenangan peradilan umum, eksepsi kompetensi absolut tidak beralasan, karena pokok sengketa adalah kepemilikan dan keabsahan hubu",
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan-alasan yang diterima di Kepaniteraan Pengadilan Negeri tersebut pada tanggal 24 November 2025; Menimbang, bahwa permohonan pe ninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan seksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 24 November 2025, merupakan bagian tidak terpisahkan Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini da",
+      "applicable_legal_provisions": [
+        "SEMA Nomor 4 Tahun 2016"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan tersebut Mahkamah Agung berpendapat: Bahwa alasan -alasan tersebut dapat dibenarkan, oleh karena setelah meneliti secara saksama alasan peninjauan kembali dihubungkan dengan pertimbangan Judex Juris, dalam hal ini Judex Juris telah melakukan kekhilafan hakim atau kekeliruan yang nyata , dengan pertimbangan sebagai berikut: - Bahwa mengenai syarat formal, putusan kasasi diberitahukan kepada Pemohon Peninjauan Kembali pada 8 Agustus 2025, sedan gkan permohonan dan memori peninjauan kembali diaj ukan pada 21 November 2025, permohonan diajukan dalam tenggang waktu 180 hari dan secara formal dapat diterima berdasarkan Pasal 69 huruf c Undang-",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Batam untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan sah secara hukum Penggugat selaku pemilik sah atas sebidang tanah berikut bangunan rumah toko (ruko) 3 lantai yang berdiri di atasnya terletak di Komplek Taman Niaga Sukajadi Blok G, Nomor 01C, Kelurahan Sukajadi, Kecamatan Batam Kota, Kota Batam, Provinsi Kepulauan Riau, yang berbatasan: Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung",
+      "final_disposition_amar": "M E N G A D I L I: - Mengabulkan permohonan peninjauan kembali dari Pemohon Peninjauan Kembali TJIA LIANG tersebut; - Membatalkan Putusan Mahkamah Agung Nomor 1896 K/Pdt/2025, tanggal 17 Juni 2025, yang menguatkan Putusan P engadilan Tinggi Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 1896"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "PK | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 9,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-006",
+    "provenance": {
+      "decision_number": "738 PK/Pdt/2025",
+      "proceeding_level": "PK",
+      "chamber": "Perdata",
+      "decision_year": 2025,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1uESkOhhyqZHVm1yTBnB5yFOnQZRCdN2N/view?usp=drivesdk",
+      "sha256_checksum": "8d9dda644d66564563d1f727d94a6316e2fc46519a5373b549c402e583919e62",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "186/PDT/2023/PT SMR.",
+          "186/PDT/2023/PT Smr.",
+          "44/Pdt.G/2023/PN Smr."
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Kamis, tanggal 16 Oktober 2025 oleh Syamsul Ma’arif Hakim Agung"
+      },
+      "legal_issues_excerpt": "alasan-alasan Peninjauan Kembali dapat dibenarkan dengan alasan sebagai berikut: - Bahwa setelah mempelajari dan memeriksa Memori Peninjauan Kembali dan Kontra -kontra Memori Peninjauan Kembali dihubungkan dengan pertimbangan Judex Juris , keberatan -keberatan Pemohon Peninjauan Kembali berisi kesepakatan perdamaian para pihak sebag aimana Surat Kesepakatan Perdamaian tertanggal 23 Oktober 2024 yang Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimun",
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri Samarinda pada tanggal 24 Januari 2025; Menimbang, bahwa permohonan peninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 24 Januari 2025 merupakan bagian tidak terpisahkan dari putusan ini, Pemohon Peninjauan Kembali pada pokoknya mendalilkan bahwa dalam putusan ini terdapat suatu kekhil",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan terseb ut Mahkamah Agung berpendapat: Bahwa alasan-alasan Peninjauan Kembali dapat dibenarkan dengan alasan sebagai berikut: - Bahwa setelah mempelajari dan memeriksa Memori Peninjauan Kembali dan Kontra -kontra Memori Peninjauan Kembali dihubungkan dengan pertimbangan Judex Juris , keberatan -keberatan Pemohon Peninjauan Kembali berisi kesepakatan perdamaian para pihak sebag aimana Surat Kesepakatan Perdamaian tertanggal 23 Oktober 2024 yang Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, Penggugat dalam gugatannya m emohon kepada Pengadilan Negeri Samarinda untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan/permohonan cerai Penggugat untuk seluruhnya; 2. Menyatakan menurut hukum, bahwa perkawina n/pernikahan antara Narsono Mugiono /Penggugat dengan Jessica Pr anata/Tergugat adalah putus karena cerai; 3. Membebankan biaya perkara ini sesuai dengan ketentuan hukum yang berlaku; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilita",
+      "final_disposition_amar": "M E N G A D I L I: - Mengabulkan permohonan peninjauan kembali dari Pemohon Peninjauan Kembali JESSICA PRANATA tersebut; - Membatalkan Putusan Mahkamah Agung Nomor 3607 K/Pdt/2024 tanggal 7 Oktober 2024 yang menguatkan Pengadilan Tinggi Kalimantan Timur Nomor 186/PDT/2023/PT Smr., tanggal 15 November 2023 yang memperbaiki Putusan Pengadilan Negeri Samarind a Nomor 44/Pdt.G/2023/PN Smr., tanggal 26 September 2023; MENGADILI KEMBALI: 1. Menyatakan sah kesepakatan Surat Kes epakatan Perdamaian tanggal 23 Oktober 2024 yang ditandatangani Narsono Mugiono (Termohon Peninjauan Kembali dahulu Penggugat), dan Jessica Pranata (Pemohon Peninjauan Kembali dahulu Tergugat); 2. Menghukum",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 3607",
+        "putusan Mahkamah Agung Nomor 3607"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION).",
+      "observatory_tag": "PK | Perdata | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 8,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-007",
+    "provenance": {
+      "decision_number": "97 PK/Ag/2025",
+      "proceeding_level": "PK",
+      "chamber": "Agama",
+      "decision_year": 2025,
+      "pages": 7,
+      "drive_source_url": "https://drive.google.com/file/d/1TOjRDOCv_zA-rth23Aef-JBdaLzLAwFV/view?usp=drivesdk",
+      "sha256_checksum": "73f636c679b5c849c83a8dc5fe003dd160bc2bf97a498e118411d41f42a03491",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "356/Pdt.G/2023/PTA.Smg. tanggal 21 De",
+          "432/Pdt.G/2023/PA.Ska. tanggal 18 Okt"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan-alasan peninjauan kembali: Bahwa alasan peninjauan kembali berupa adanya novum, Pengadilan memutus melebihi dari tuntutan ( ultra petita ) dan terdapat suatu kehilafan Hakim atau kekeliruan yang nyata tidak dapat dibenarkan dengan pertimbangan sebagai berikut: Menimbang, b ahwa bukti Peninjauan Kembali (PK.1) berupa Kartu Tanda Penduduk atas nama Sri Wagito sebagaimana dalam daftar bukti yang diajukan oleh Pemohon Peninjauan Kembali tidak dilakukan sumpah sehingga tidak diketahui kapan waktu penemuan bukti tersebut. Bukti Peninjauan Kem bali (PK.4) berupa fotokopi Konfirmasi Hasil Pemeriksaan Umum PT BPRS Dana Mulia tanggal 30 Juni 2024 dan bukti Peninjauan Kembali (PK.5)",
+      "parties_arguments_excerpt": "memori peninjauan kembali yang memuat alasan-alasan yang diterima di Kepaniteraan Pengadilan Agama tersebut pada hari itu juga; Menimbang, bahwa permohonan peninjauan kembali a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; Menimbang bahwa berdasarkan memori peninjauan kembali yang diterima tanggal 6 Januari 2025 merupakan bagian tidak terpisahkan dari Putusan ini, Pemohon Peninjauan Kembali pada pokoknya mendalilkan bahwa dalam Putusan ini terdapat novum dan kekhilafan Hakim,",
+      "applicable_legal_provisions": [
+        "Pasal 1367 ayat (1) KUHP",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": null,
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Dalam Pokok Perkara: Primer: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 2 dari 7 hal. Put. Nomor 97 PK/Ag/2025 2. Menyatakan bahwa Penggugat merupakan nasabah yang mempunyai simpanan uang sejumlah Rp1.000.000.000,00 (satu miliar rupiah) pada Tergugat dan harus dilindungi hukum; 3. Menyatakan b ahwa Tergugat telah melakukan perbuatan melawan hukum terhadap Penggu",
+      "final_disposition_amar": "M E N G A D I L I: Menolak permohonan penin jauan kembali dari Pemohon Peninjauan Kembali, BANK PEMBIAYAAN RAKYAT SYARIAH DANA MULIA SURAKARTA, tersebut; Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 7 dari 7 hal. Put. Nomor 97 PK/Ag/2025 Menghukum Pemohon Peninjauan Kembali untuk membayar biaya perkara dalam pemeriksaan peninjauan kembali ini sejumlah Rp2.500.000,00 (dua juta lima ratus ribu rupiah); Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Selasa tanggal 4 November 2025 oleh H. Suharto, S.H., M.Hum., Hakim Agung yang ditetapkan oleh Ketu",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 324"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "PK | Agama | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2018-008",
+    "provenance": {
+      "decision_number": "69 PK/Pid/2018",
+      "proceeding_level": "PK",
+      "chamber": "Pidana",
+      "decision_year": 2018,
+      "pages": 9,
+      "drive_source_url": "https://drive.google.com/file/d/1P9ofg0bMFBtQ9K9TLR53Y2iXNLXvDWY1/view?usp=drivesdk",
+      "sha256_checksum": "af6c483fcc1be35e2c3e5f8bdb40938855f8fb21e75766ea3a3c4f2506610cff",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "393/PID/2016/PT. DKI tanggal 7 Mare",
+          "777/Pid.B/2016/PN.JKT.PST tanggal 27"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan peninjauan kembali yang diajukan oleh Pemohon Peninjauan Kembali/ Terpidana dalam memori peninjauan kembali selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan pen injauan kembali yang diajukan Pemohon Peninjauan Kembali/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan peninjauan kembali Pemohon Peninjauan Kembali / Terpidana tidak dapat dibenarkan karena putusan yang dimohonkan peninjauan kembali tersebut tidak salah dalam menerapkan hukum, putusan Judex Facti Pengadilan Negeri yang dikuatkan oleh putusan Judex Facti Pengadilan Tinggi dan terhadap putusan Pengadilan Tinggi tersebut Pemohon Peninjauan Kembali telah mengajukan kasasi",
+      "parties_arguments_excerpt": "memori peninjauan kembali selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan pen injauan kembali yang diajukan Pemohon Peninjauan Kembali/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan peninjauan kembali Pemohon Peninjauan Kembali / Terpidana tidak dapat dibenarkan karena putusan yang dimohonkan peninjauan kembali tersebut tidak salah dalam menerapkan hukum, putusan Judex Facti Pengadilan Negeri yang dikuatkan oleh putusan Judex Facti Pengadilan Tinggi dan terhadap putusan Pengadilan Tinggi tersebut Pemohon Peninjauan Kembali telah mengajukan kasasi, permohonan kasasi Pemohon Peninjauan Kembali ditolak oleh Majelis Kasasi, dengan demiki",
+      "applicable_legal_provisions": [
+        "Pasal 266 Ayat (2) huruf a KUHAP",
+        "Pasal 340 KUHP",
+        "Undang-Undang Nomor 14 Tahun 1985"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan pen injauan kembali yang diajukan Pemohon Peninjauan Kembali/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan peninjauan kembali Pemohon Peninjauan Kembali / Terpidana tidak dapat dibenarkan karena putusan yang dimohonkan peninjauan kembali tersebut tidak salah dalam menerapkan hukum, putusan Judex Facti Pengadilan Negeri yang dikuatkan oleh putusan Judex Facti Pengadilan Tinggi dan terhadap putusan Pengadilan Tinggi tersebut Pemohon Peninjauan Kembali telah mengajukan kasasi, permohonan kasasi Pemohon Peninjauan Kembali ditolak oleh Majelis Kasasi, dengan demikian putusan yang dimohonkan peninjauan kembali adalah putusan yang men",
+      "legal_holdings_excerpt": null,
+      "final_disposition_amar": "M E N G A D I L I: - Menolak permohonan peninjauan kembali dari Pemohon Peninjauan Kembali/Terpidana JESSICA KUMALA alias JESSICA KUMALA WONGSO alias JESS tersebut; - Menetapkan bahwa putusan yang dimohonkan peninjauan kembali tersebut tetap berlaku; - Membebankan kepada Terpidana untuk membayar biaya perkara pada pemeriksaan peninjauan kembali sebesar Rp2.500,00 (dua ribu lima ratus rupiah); Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjad",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 498"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_INDONESIAN_MOBILE_NUMBER; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "PK | Pidana | 2018"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-009",
+    "provenance": {
+      "decision_number": "78 PK/Pid/2025",
+      "proceeding_level": "PK",
+      "chamber": "Pidana",
+      "decision_year": 2025,
+      "pages": 18,
+      "drive_source_url": "https://drive.google.com/file/d/1RTt8syP-RpcgMw-fNVe8hmSc4khZzkEh/view?usp=drivesdk",
+      "sha256_checksum": "82883ae6e983ec2fab53e22832ac4835571c278b20d9d587d9ae9d4afdf42888",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "393/PID/2016/PT.DKI tanggal 7 Maret",
+          "393/Pid/2016/PT DKI tanggal 7 Maret",
+          "7/Akta.Pid.B/2024/PN.Jkt.Pst. yang dibua",
+          "777/Pid.B/2016/PN Jkt Pst tanggal 27",
+          "777/Pid.B/2016/PN.JKT.PST. tanggal 27",
+          "777/Pid.B/2016/PN.Jkt.Pst tanggal 27"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan peninjauan kembali kedua yang diajukan oleh Pemohon Peninjauan Kembali Kedua/Terpidana dalam memori peninjauan kembali kedua selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan peninjauan kembali kedua yang diajukan Pemohon Peninjauan Kembali Kedua/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: − Bahwa alasan peninjauan kembali kedua Terpidana pada pokoknya adalah tentang adanya novum berupa keadaan baru yang terungkap dalam Compact Disc (CD) berisi Rekaman Tayangan TV One dalam Acara Wawancara Karni Ilyas dengan Saksi Dermawan Salihin, tanggal 7 Oktober 2023. Menurut pemohon, novum ini membuktikan bahwa rekaman CCTV yang selama ini diputar dala",
+      "parties_arguments_excerpt": "Memori Peninjauan Kembali Kedua tanggal 2 Desember 2024 dari Penasihat Hukum Terpidana untuk dan atas nama Terpidana tersebut sebagai Pemohon Peninjauan Kembali Kedua yang diterima di Kepaniteraan Pengadilan Negeri Jakarta Pusat pada tanggal 9 Oktober 2024; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Mahkamah Agung tersebut telah dberitahukan kepada Penasihat Hukum Terpidana pada tanggal 10 September 2019. Dengan demikian, putusan tersebut telah mempunyai kekuatan hukum tetap; Menimbang bahwa alasan peninjauan kembali kedua yang diajukan oleh Pemohon Peninjauan Kembali Kedua/Terpidana dalam memori peninjauan kembali kedua selengkapnya termuat dalam berkas perkara",
+      "applicable_legal_provisions": [
+        "Pasal 183 KUHAP",
+        "Pasal 184 KUHAP",
+        "Pasal 263 Ayat (2) huruf a KUHAP",
+        "Pasal 263 Ayat (2) huruf c KUHAP",
+        "Pasal 340 KUHP",
+        "SEMA Nomor 10 Tahun 2009",
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 2004",
+        "Undang-Undang Nomor 8 Tahun 1981"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan peninjauan kembali kedua yang diajukan Pemohon Peninjauan Kembali Kedua/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: − Bahwa alasan peninjauan kembali kedua Terpidana pada pokoknya adalah tentang adanya novum berupa keadaan baru yang terungkap dalam Compact Disc (CD) berisi Rekaman Tayangan TV One dalam Acara Wawancara Karni Ilyas dengan Saksi Dermawan Salihin, tanggal 7 Oktober 2023. Menurut pemohon, novum ini membuktikan bahwa rekaman CCTV yang selama ini diputar dalam persidangan diduga telah direkayasa, padahal judex facti dan judex juris telah menggunakan rekaman CCTV yang diduga telah direkayasa tersebut untuk menghukum pemohon peninja",
+      "legal_holdings_excerpt": null,
+      "final_disposition_amar": "M E N G A D I L I: − Menolak permohonan peninjauan kembali kedua dari Pemohon Peninjauan Kembali Kedua/Terpidana JESSICA KUMALA alias JESSICA KUMALA WONGSO alias JESS tersebut; − Menetapkan bahwa putusan yang dimohonkan peninjauan kembali kedua tersebut tetap berlaku; − Membebankan kepada Terpidana untuk membayar biaya perkara pada pemeriksaan peninjauan kembali kedua sebesar Rp2.500,00 (dua ribu lima ratus rupiah); Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Kamis, tanggal 14 Agustus 2025 oleh Dwiarso Budi Santiarto, S.H., M.Hum., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Prof. Dr. Yanto, S.H., M.H. dan Dr. H. Achmad Setyo Pudjoha",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung Nomor 498",
+        "Putusan Mahkamah Agung Nomor 69",
+        "Putusan Mahkamah Konstitusi Nomor 33/PUU-XIV/2016",
+        "Putusan Mahkamah Konstitusi Nomor 34/PUU-XI/2013",
+        "Putusan Mahkamah Konstitusi Nomor 65/PUU-"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_INDONESIAN_MOBILE_NUMBER).",
+      "observatory_tag": "PK | Pidana | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-010",
+    "provenance": {
+      "decision_number": "8 PK/Mil/2026",
+      "proceeding_level": "PK",
+      "chamber": "Militer",
+      "decision_year": 2026,
+      "pages": 7,
+      "drive_source_url": "https://drive.google.com/file/d/13JmoVscXN-RNNz9F42Rzciau1DZtNYph/view?usp=drivesdk",
+      "sha256_checksum": "3d92801dcad992ef4ec9bcc349f4331c7da186b6208bd9db94adea37361b61b0",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan peninjauan kembali yang diajukan oleh Pemohon Peninjauan Kembali/Terpidana dalam memori peninjauan kembali selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan peninjauan kem bali yang diajukan Pemohon Peninjauan Kembali/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan permohonan peninjauan kembali Terpidana pada pokoknya Terpidana tidak sependapat dengan pidana yang dijatuhkan oleh judex facti karena tidak mencerminkan keadilan substantif dan nilai kemanusiaan, untuk itu Terpidana mohon agar Terpidana dijatuhi pidana dengan peniadaan atau penghapusan pidana tambahan pemecatan dari dinas militer; - Bahwa alasan permoho",
+      "parties_arguments_excerpt": "Memori Peninjauan Kembali tanggal 20 Januari 2026 dari Penasihat Hukum Terpidana berdasarkan Surat Kuasa Khusus tanggal 2 Januari 2026 sebagai pemohon peninjauan kembal i yang diterima di Kepaniteraan Pengadilan Militer II-08 Jakarta pada tanggal 24 Februari 2026; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Militer II -08 Jakarta Nomor 186-K/PM II -08/AL/VII/2017 tanggal 8 Desember 2017 tersebut telah diumumkan dengan Surat Pengumuman Pengadilan Nomor PENG/115 - K/PM II-08/AL/XII/2017 tanggal 9 Desember 2017 oleh Panitera Pengadilan Militer II -08 Jakarta berdasarkan Berita Acara Penempelan tanggal 9 Desember 2017 dan berdasarkan Akta Putusa",
+      "applicable_legal_provisions": [
+        "Pasal 87 Ayat (1) ke -2 juncto Ayat (2) KUHP",
+        "Pasal 87 Ayat (1) ke-2 juncto Ayat (2) KUHP",
+        "Undang-Undang Nomor 31 Tahun 1997"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan peninjauan kem bali yang diajukan Pemohon Peninjauan Kembali/Terpidana tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan permohonan peninjauan kembali Terpidana pada pokoknya Terpidana tidak sependapat dengan pidana yang dijatuhkan oleh judex facti karena tidak mencerminkan keadilan substantif dan nilai kemanusiaan, untuk itu Terpidana mohon agar Terpidana dijatuhi pidana dengan peniadaan atau penghapusan pidana tambahan pemecatan dari dinas militer; - Bahwa alasan permohonan peninjauan kembali Terp idana tersebut dapat dibenarkan, putusan judex facti memperlihatkan suatu kekhilafan Dokumen ini telah ditandatangani secara digital",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan alasan -alasan tersebut di atas, judex juris memandang permohonan peninjauan kembali Terpidana harus dikabulkan dengan menjatuhkan pidana yang lebih ringan kepada Terpidana dan meniadakan pidana tambahan pemecatan dari dinas militer; Menimbang, bahwa berdasarkan pertimbangan tersebut, Mahkamah Agung berpendapat permohonan peninjauan kembali dapat dikabulkan, oleh karena itu berdasarkan Pasal 248 Ayat (2) huruf c juncto Pasal 251 Ayat (2) huruf b angka 4 Undang -Undang Nomor 31 Tahun 1997 tentang Peradilan Militer, terdapat cukup alasan untuk membatalkan Putusan Pengadilan Militer II-08 Jakarta Nomor 186-K/PM II -08/AL/VII/2017 tanggal 8 Desember 2017 d",
+      "final_disposition_amar": "M E N G A D I L I: - Mengabulkan permohonan peninjauan kembali dari Pemohon Peninjauan Kembali/Terpidana HENDRI FARHAN N URUL ISLAM, Kls Nav, NRP.117841 tersebut; - Membatalkan Putusan Pengadilan Militer II -08 Jakarta Nomor 186 -K/PM II-08/AL/VII/2017 tanggal 8 Desember 2017 tersebut; MENGADILI KEMBALI: 1. Menyatakan Terpidana HENDRI FARHAN NURUL ISLAM, Kls Nav, NRP.117841 telah terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “Desersi dalam waktu damai”; 2. Menjatuhkan pidana kepada Terpidana oleh karena itu dengan pidana penjara selama 5 (lima) bulan; 3. Menetapkan barang bukti berupa:  2 (dua) lembar Daftar Absensi Anggota Smin Kolinlamil terhitung mulai",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "PK | Militer | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 6,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-011",
+    "provenance": {
+      "decision_number": "4183 K/Pdt/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Perdata",
+      "decision_year": 2026,
+      "pages": 23,
+      "drive_source_url": "https://drive.google.com/file/d/13FpA4-YTkZvhxgIzO4IXWgUXDhXECMmx/view?usp=drivesdk",
+      "sha256_checksum": "c5ef1e98aea3effea9e1899b0d3a2e474c930113e204a50aecd15cbc96129707",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "28/PDT/2026/PT BJM",
+          "42/Pdt.G/2025/PN Bjm."
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi ters ebut Mahkamah Agung berpendapat: Bahwa terlepas dari alasan-alasan kasasi tersebut, oleh karena setelah membaca dan meneliti Memori Kasasi masing-masing tanggal 2 Mei 2026 dan Kontra Memori Kasasi masing-masing tanggal 13 Mei 2026 , dihubungkan dengan pertimbangan Judex Facti dalam hal ini Pengadilan Tinggi Banjarmasin yang membatalkan putusan Pengadilan Negeri Banjarmasin telah salah dalam menerapkan hukum, sehingga perlu adanya perbaikan dalam amar putusan, dengan pertimbangan sebagai berikut: - Bahwa Judex Facti telah keliru dengan menyatakan Para Tergugat dan Turut Tergugat telah melakukan perbuatan melawan hukum dan Akta Kuasa Menjual dinyatakan tidak",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri Banjarmasin tersebut pada tanggal 2 Mei 2026; Menimbang, bahwa sesudah putus an terakhir ini diberitahukan secara elektronik kepada Pemohon Kasasi II pada tanggal 17 April 2026 , kemudian terhadapnya oleh Pemohon Kasasi II diajukan permohonan kasasi pada tanggal 2 9 April 2026 sebagaimana ternyata dari Akta Permohonan Kasasi II Elekt ronik Nomor 42/Pdt.G/2025/PN Bjm. , yang dibuat oleh Panitera Pengadilan Negeri Banjarmasin, permohonan tersebut diikuti dengan Memori Kasasi II yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri Banjarmasin tersebut pada tanggal 2 Me i 202",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan kasasi ters ebut Mahkamah Agung berpendapat: Bahwa terlepas dari alasan-alasan kasasi tersebut, oleh karena setelah membaca dan meneliti Memori Kasasi masing-masing tanggal 2 Mei 2026 dan Kontra Memori Kasasi masing-masing tanggal 13 Mei 2026 , dihubungkan dengan pertimbangan Judex Facti dalam hal ini Pengadilan Tinggi Banjarmasin yang membatalkan putusan Pengadilan Negeri Banjarmasin telah salah dalam menerapkan hukum, sehingga perlu adanya perbaikan dalam amar putusan, dengan pertimbangan sebagai berikut: - Bahwa Judex Facti telah keliru dengan menyatakan Para Tergugat dan Turut Tergugat telah melakukan perbuatan melawan hukum dan Ak",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan , Para Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Banjarmasin untuk memberikan putusan sebagai berikut: Dalam Provisi: 1. Meletakkan sita jaminan yang diajukan oleh Penggugat; 2. Memerintahkan kepada Tergugat I atau siapapun yang saat ini menguasai objek tersebut untuk mengosongkan atau menyerahkan tanah dan bangunan yang dijadikan sita jaminan tersebut sebagai bentuk pemenuhan kewajiban kepada Para Penggugat; a. Sertifikat Hak Milik Nomor 566/Benua Anyar , seluas 165 m², Sertifikat Hak Milik Nomor 567/Benua Anyar, seluas 168 m², Sertifikat Hak Milik Nomor 564/Benua Anyar , seluas 168 m², dan penerbitan",
+      "final_disposition_amar": "M E N G A D I L I: - Menolak permohonan kasasi dari Pemohon Kasasi I DR. SUPRIADI, S.Pd., M.M., dan Pemohon Kasasi II HESTA DEWI, S.Pd., tersebut; - Memperbaiki amar Putusan Pengadilan Tinggi Banjarmasin Nomor 28/PDT/2026/PT BJM, tanggal 16 April 2026 yang membatalkan Putusan Pengadilan Negeri Banjarmasin Nomor 42/Pdt.G/2025/PN Bjm., tanggal 29 Januari 2026, sehingga amar selengkapnya sebagai berikut: Dalam Konvensi: Dalam Provisi: Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namu",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Kasasi | Perdata | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 6,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-012",
+    "provenance": {
+      "decision_number": "443 K/Pdt/2025",
+      "proceeding_level": "Kasasi",
+      "chamber": "Perdata",
+      "decision_year": 2025,
+      "pages": 9,
+      "drive_source_url": "https://drive.google.com/file/d/1GNaR1_v2B5xpNcsPYcGXCWtDMlMA7aKv/view?usp=drivesdk",
+      "sha256_checksum": "ffe7367f063b3adf147230026579c27c2d103a0e0418e5a03f3f8f3d3201da22",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "1012/PDT/2024/PT DKI.",
+          "1012/Pdt/2024/PT DKI.",
+          "127/Srt.Pdt.Kas/2024/PN Jkt.Pst.",
+          "28/Pdt.G/2024/PN Jkt.Pst.",
+          "28/Pdt.G/2024/PN Jkt.Pst. dalam eks",
+          "28/Pdt.G/2024/PN Jkt.Pst. tanggal 3"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Senin, tanggal 10 Februari 2025 oleh Syamsul Ma'arif, Hakim Agung yang"
+      },
+      "legal_issues_excerpt": "alasan-alasan kasasi tersebut Mahkamah Agung berpendapat: Bahwa setelah mempelajari pertimbangan Judex Facti dihubungkan dengan keberatan Pemohon Kasasi dalam memori kasasi dan jawaban Termohon Kasasi dalam kontra memori kasasi, Mahkamah Agung berpendapat alasan -alasan kasasi dapat dibenarkan , putusan Judex Facti/Pengadilan Tinggi Jakarta yang membatalkan putusan Judex Facti/Pengadilan Negeri Jakarta Pusat salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: Bahwa pertimbangan Judex Facti /Pengadilan Tinggi Jakarta bahwa Notaris harus ditarik sebagai pihak karena perannya sangat penting terkait akta-akta pengangkatan Tergugat sebagai Ketua Dewan Pembina Yayasan Tr",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri Jakarta Pusat pada tanggal 23 Agustus 2024; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang - undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang di terima tanggal 23 Agustus 2024, yang merupakan bagian tidak terpisahkan dari putusan ini Pemohon Kasasi pada pokoknya mohon agar Mahkamah Agung memberikan putusan sebagai berikut: Mengadili Sendiri Majelis Hakim Kasasi meno",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan-alasan kasasi tersebut Mahkamah Agung berpendapat: Bahwa setelah mempelajari pertimbangan Judex Facti dihubungkan dengan keberatan Pemohon Kasasi dalam memori kasasi dan jawaban Termohon Kasasi dalam kontra memori kasasi, Mahkamah Agung berpendapat alasan -alasan kasasi dapat dibenarkan , putusan Judex Facti/Pengadilan Tinggi Jakarta yang membatalkan putusan Judex Facti/Pengadilan Negeri Jakarta Pusat salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: Bahwa pertimbangan Judex Facti /Pengadilan Tinggi Jakarta bahwa Notaris harus ditarik sebagai pihak karena perannya sangat penting terkait akta-akta pengangkatan Tergugat sebagai Ketua",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Jakarta Pusat untuk memberikan putusan sebagai berikut: Dalam Eksepsi: Apabila ada eksepsi dan/atau gugatan rekonvensi dari Tergugat maka Penggugat mohon agar menyatakan ditolak untuk seluruhnya; Dalam Pokok Perkara: 1. Menyatakan menerima gugatan Penggugat untuk seluruhnya; 2. Menyatakan demi hukum bahwa Tergugat dalam hal ini Prof. Dr. Anak Agung Gde Agung, M.A. adalah tidak sah sebagai Ketua Dewan Pembina Yayasan Trisakti tapi Tergugat tetap sebagai Anggota Dewan Pembina Yayasan Trisakti; 3. Menyatakan demi hukum bahwa 4 (empat) akta yang dibuat di hadapan",
+      "final_disposition_amar": "M e n g a d i l i: - Mengabulkan permohonan kasasi dari Pemohon Kasasi YAYASAN TRISAKTI tersebut; - Membatalkan Putusan Pengadilan Tinggi Jakarta Nomor 1012/Pdt/2024/PT DKI., tanggal 6 Agustus 2024 yang membatalkan Putusan Pengadilan Negeri Jakarta Pusat Nomor 28/Pdt.G/2024/PN Jkt.Pst., tanggal 3 Juni 2024; Mengadili Sendiri: Dalam Eksepsi: - Menolak eksepsi Tergugat seluruhnya; Dalam Pokok Perkara: 1. Mengabulkan gugatan Penggugat untuk sebagian; 2. Menyatakan demi hukum bahwa Tergugat benar telah melakukan perbuatan melawan hukum (PMH) kepada Penggugat; 3. Menyatakan demi hukum bahwa 4 (empat) akta yang dibuat di hadapan Notaris Asep Heryanto, S.H., M.Kn. adalah cacat demi",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Kasasi | Perdata | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-013",
+    "provenance": {
+      "decision_number": "1111 K/Pdt.Sus-Pailit/2025",
+      "proceeding_level": "Kasasi",
+      "chamber": "Perdata Khusus",
+      "decision_year": 2025,
+      "pages": 6,
+      "drive_source_url": "https://drive.google.com/file/d/14BTIpn7NTdOV0qqziwEIBhOPonPA7iyj/view?usp=drivesdk",
+      "sha256_checksum": "9e662a56b28cdbc448647d18a9e7e0540f72a7080fae79a0cc30356dabc583ba",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "4/Pdt.Sus-Pailit/2025/PN Niaga Smg."
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": "memori kasasi yang diterima di Kepaniteraan Pengadilan Niaga pada Pengadilan Negeri Semarang pada tanggal 8 Agustus 2025; Menimbang, bahwa permohonan kasasi a quo beserta alasan-alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 8 Agustus 2025 yang merupakan bagian tidak terpisahkan dari putusan ini, Para Pemohon Kasasi meminta agar: 1. Mengabulkan permohonan kasasi dari Para Pemohon Kasasi; 2. Membatalkan Putusan Pengadilan Niaga pada Pengadilan Nege",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 5 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan-alasan tersebut, Mahkamah Agung berpendapat: Bahwa alasan tersebut tidak dapat dibenarkan, oleh karena setelah meneliti memori kasasi dihubungkan dengan pertimbangan Judex Facti, putusan Judex Facti tidak salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: − Bahwa pokok sengketa dalam perkara a quo adalah permohonan pailit terhadap PT Gurano Bintang Papua yang disebabkan adanya tagihan yang jatuh tempo dan belum dibayar kepada Para Pemohon Pailit; − Bahwa sebagaimana fakta persidangan hubungan hukum antara Para Pemohon dengan Termohon adalah terkait adanya tagihan atas sewa menyewa mobil dan pengambilan barang berupa oli Meditran yang",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 8 Agustus 2025 yang merupakan bagian tidak terpisahkan dari putusan ini, Para Pemohon Kasasi meminta agar: 1. Mengabulkan permohonan kasasi dari Para Pemohon Kasasi; 2. Membatalkan Putusan Pengadilan Niaga pada Pengadilan Negeri Semarang dengan Nomor Perkara 4/Pdt.Sus -Pailit/2025/PN Niaga Smg, tanggal 31 Juli 2025; Mengadili Sendiri: 1. Mengabulkan permohonan pernyataan pailit yang diajukan oleh Para Pemohon Pailit terhadap Termohon Pailit; 2. Menyatakan Termohon Pailit berada dalam keadaan pailit dengan segala akibat hukumnya; 3. Menunjuk Hakim Pengawas dari Hakim -Hakim Niaga Pengadilan Niaga pada Pengadilan Neg",
+      "final_disposition_amar": "M E N G A D I L I: - Menolak permohonan kasasi dari Para Pemohon Kasasi: 1. CV SARANA SENTOSA, 2. JAIN SOEWIDONO tersebut; - Menghukum Para Pemohon Kasasi untuk membayar biaya perkara dalam tingkat kasasi yang ditetapkan sebesar Rp5.000.000,00 (lima juta rupiah); Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Senin, tanggal 1 Desember 2025 oleh Syamsul Ma’arif, S.H., LL.M., Ph.D., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Dr. Nurul Elmiyah, S.H., M.H., dan Dr. Rahmi Mulyati, S.H., M.H., Hakim-hakim Agung sebagai anggota dan diucapkan dalam sidang terbuka untuk umum pada hari itu juga oleh Ketua Majelis dengan dihadiri para",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Perdata Khusus | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 6,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-014",
+    "provenance": {
+      "decision_number": "1491 K/Pdt/2025",
+      "proceeding_level": "Kasasi",
+      "chamber": "Perdata",
+      "decision_year": 2025,
+      "pages": 9,
+      "drive_source_url": "https://drive.google.com/file/d/1rfg_Zwz5g6KiIbsbAWVbDCwBTu2vz3T5/view?usp=drivesdk",
+      "sha256_checksum": "b45d63c34eda95fee7831573993d69cf7256d4791afc8f930d480cb507e7461f",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "314/PDT/2024/PT DKI juncto Nomor 70",
+          "314/PDT/2024/PT DKI.",
+          "314/Pdt/2024/PT.DKI.",
+          "707/Pdt.G/2022/PN Jkt.Tim."
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan-alasan yang diterima di kepaniteraan pengadilan negeri tersebut pada tanggal 2 Mei 2024 (hari itu juga); Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahu kan kepada pihak lawan dengan s eksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 2 Mei 2024 yang merupakan bagian tidak terpisahkan dari putusan ini, Pemohon Kasasi meminta agar: 1. Menerima permohonan kasasi dari Pemohon Kasasi semula Penggugat; 2. Membatalkan Putusan Pengadilan Tinggi DKI Jakar",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat: Menimbang, bahwa setelah meneliti secara saksama memori kasasi yang diterima tanggal 2 Mei 2024 dan kontra memori kasasi yang diterima masing-masing tanggal 4 Juni 2024, 28 Mei 2024 dan tanggal 27 Mei 2024 dihubungkan dengan pertimbangan Judex Facti dalam hal ini Pengadilan Tinggi DKI Jakarta yang menguatkan putusan Pengadilan Negeri Jakarta Timur tidak terdapat kesalahan dalam menerapkan hukum, dengan pertimbangan sebagai berikut: - Bahwa berdasarkan dalil Penggugat pada angka 12 halaman 4 yang pada pokoknya sesuai laporan SP2HP Polres Metro Jakart a Timur, PT. Billy Moon selaku Turut Tergugat II membebaskan objek sengketa berdasarkan Girik C. 127 atas nama K ebu",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Penga dilan Negeri Jakarta Timur untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan Para Tergugat telah melakukan perbuatan melawan hukum; 3. Menyatakan sah dan mempunyai kekuatan hukum Sertifikat Hak Guna Bangunan (SHGB) Nomor 01656/Pondok, tanggal 20 Mei 2005, Luas 336 m2 atas nama Ingan Malem Peranginangin; 4. Menyatakan tidak sah dan tidak berkekuatan hukum Sertifikat Hak Milik Sertifikat Hak Milik Nomor 12529 dikeluarkan oleh Kantor Badan Pertanahan Negara Kota Ad ministrasi Jakarta Timur tanggal 28 Nopember 2019 atas nama Tulus S",
+      "final_disposition_amar": "M E N G A D I L I : 1. Menolak permohonan kasasi dari Pemohon Kasasi: INGAN MALEM PERANGINANGIN, tersebut; 2. Menghukum Pemohon Kasasi untuk membayar biaya perkara pada tingkat kasasi ini sejumlah Rp500.000,00 (lima ratus ribu rupiah); Demikian diputuskan dalam rapat musyawara h Majelis Hakim pada hari Selasa, tanggal 15 April 2025 oleh Dr. Nurul Elmiyah, S.H., M.H., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Prof. Dr. H. Haswandi, S.H., S.E., M.Hum., M.M., dan Dr. Nani Indrawati, S.H., M.Hum., Hakim-hakim Agung sebagai anggota dan diucapkan dalam sidang terbuk a untuk umum pada hari itu juga oleh Ketua Majelis dengan dihadiri oleh Para Anggota tersebut dan",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Perdata | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 5,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-015",
+    "provenance": {
+      "decision_number": "5287 K/Pdt/2025",
+      "proceeding_level": "Kasasi",
+      "chamber": "Perdata",
+      "decision_year": 2025,
+      "pages": 29,
+      "drive_source_url": "https://drive.google.com/file/d/1AMbZ5595rxa1wtfZXdqZ-3exMQ8BmVYB/view?usp=drivesdk",
+      "sha256_checksum": "7c1a95a3ef91a798eef2a1f79c958a0b7f68e6e690ed6cbb7e241feb8e935e94",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "18/Pdt.G/2024/PN Mbn",
+          "18/Pdt.G/2024/PN. Mbn",
+          "4/Akta.Kasasi/2025/PN Mbn juncto Nomor 18",
+          "66/PDT/2025/PT JMB yang dibuat ole",
+          "66/PDT/2025/PT JMB yang diputus d",
+          "66/Pdt/2025/PT JMB",
+          "66/Pdt/2025/PT. JMB"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Negeri tersebut pada tanggal 14 Juli 2025; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahu kan kepada pihak lawan dengan sa ksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 14 Juli 2025 yang merupakan bagian tidak terpisahkan daripPutusan ini, Para Pemohon Kasasi meminta agar: Mengadili: 1. Menerima permohonan kasasi Para Pemohon/semula Para Pembanding /Para Penggugat; 2. Membatalkan P",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat: Menimbang, setelah meneliti secara sa ksama memori kasasi tanggal 14 Juli 2025 , kontra memori kasasi masing-masing tanggal 24 Juli 2025 dan tanggal 25 Juli 2025 dihubungkan dengan pertimbangan Judex Facti dalam hal ini Pengadilan Tinggi Jambi telah salah menerapkan hukum, dengan pertimbangan sebagai berikut: Bahwa gugatan a quo adalah mengenai keabsahan hak ulayat atas tanah milik masyarakat hukum adat Suku A nak Dalam Orang Kubu (Marga Kubu Lalan), yang terletak dahulu di RT. I, Dusun Lamo Padang Salak dahulu Kecamatan Jambi Luar Kota, Kabupaten Dati II Batanghari sekarang berada di wilayah administrasi Desa Bungku, Kecamatan Bajubang, Kabupaten B",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, Para Penggugat dalam gugatannya memohon kepada Pengadilan Negeri Muara Bulian untuk memberikan putusan sebagai berikut: Primair: 1. Mengabulkan gugatan Para Penggugat yang merupakan wakil dari masyarakat hukum adat Suku Anak Dalam (Marga Kubu Lalan ) untuk keseluruhan sebagaimana yang di atur dalam Perma RI Nomor 1 Tahun 2002 tentang Claas Action; 2. Menyatakan sah milik Masyarakat Hukum Adat S uku Anak Dalam Orang kubu (Marga Kubu Lalan) tanah ulayat yang terletak dahulu di R T. I Dusun Lamo Padang Salak, dahulu Kec amatan Jambi Luar Kota, Kabupaten Dati II Batang Hari, sekarang berada di wilayah administrasi Desa Bung",
+      "final_disposition_amar": "Mengadili: 1. Menerima permohonan kasasi Para Pemohon/semula Para Pembanding /Para Penggugat; 2. Membatalkan Putusan Pengadilan Tinggi Jambi Nomor 66/PDT/2025/PT JMB yang diputus dalam musyawarah tanggal 10 Juni 2025 dan diucapkan pada tanggal 20 Juni 2025, yang menguatkan Putusan Pengadilan Negeri Muara Bulian Nomor 18/Pdt.G/2024//PN.Mbn, tanggal 2 Mei 2025 dan; Mengadili Sendiri: 1. Mangabulkan g ugatan Para Penggugat yang merupakan wakil dari Masyarakat Hukum Adat Suk u Anak Dalam (Marga Kubu Lalan ) untuk Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Perdata | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 5,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-016",
+    "provenance": {
+      "decision_number": "464 K/TUN/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 10,
+      "drive_source_url": "https://drive.google.com/file/d/1yQs2LUGogdty4UJiv-C9uhmR15t3cPKO/view?usp=drivesdk",
+      "sha256_checksum": "28d9ae45c971d70f64ced361c325bbdb5d9e41edb2a40ff50a7052e27d17604b",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "22/B/2026/PT.TUN.JKT",
+          "22/B/2026/PT.TUN.JKT tanggal 2 M",
+          "238/G/2025/PTUN.JKT"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi tersebut Mahkamah Agung berpendapat: Halaman 5 dari 10 halaman. Putusan Nomor 464 K/TUN/2026 Menimbang, b ahwa sebelum mempertimbangkan pokok permasalahan dalam perkara a quo , Mahkamah Agung perlu memperbaiki identitas pihak Pemohon Kasasi /Penggugat yang disesuaikan dengan identitas pihak Pemohon Kasasi /Penggugat sebagaimana tercantum dalam keputusan objek sengketa; Menimbang, bahwa alasan -alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: - Bahwa berdasarkan Keputusan Nomor KP.01.05/A/1053/2025 tertanggal 26 Maret 2025 (objek sengketa ) Tergugat/Termohon Kasasi telah mela",
+      "parties_arguments_excerpt": "Memori Kasasi yang memuat alasan-alasan yang diterima di Kepaniteraan Pengadilan Tata Usaha Negara Jakarta tersebut pada tanggal 27 Maret 2026; Menimbang, b ahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, b ahwa berdasarkan Memori Kasasi yang diterima pada tanggal 27 Maret 2026 , yang merupakan bagian tidak terpisahkan dari Putusan ini, Pemohon Kasasi meminta agar: 1. Menerima permohonan kasasi dari Pemohon Kasasi; 2. Membatalkan Putusan Pengadilan Ting",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 5 Tahun 1986",
+        "Undang-Undang Nomor 51 Tahun 2009",
+        "Undang-Undang Nomor 9 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat: Halaman 5 dari 10 halaman. Putusan Nomor 464 K/TUN/2026 Menimbang, b ahwa sebelum mempertimbangkan pokok permasalahan dalam perkara a quo , Mahkamah Agung perlu memperbaiki identitas pihak Pemohon Kasasi /Penggugat yang disesuaikan dengan identitas pihak Pemohon Kasasi /Penggugat sebagaimana tercantum dalam keputusan objek sengketa; Menimbang, bahwa alasan -alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: - Bahwa berdasarkan Keputusan Nomor KP.01.05/A/1053/2025 tertanggal 26 Maret 2025 (objek sengketa ) Tergugat/Termohon Kasasi telah melakukan mutasi Penggugat/P",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Dalam Penundaan: 1. Mengabulkan permohonan penundaan pelaksanaan keputusan yang diterbitkan oleh Tergugat berupa Keputusan Menteri Kesehatan Republik Indonesia Nomor KP.01.05/A/1053/2025 tentang Mutasi Pegawai Negeri Sipil di Lingkungan Kementerian Kesehatan, tertanggal 26 Maret 2025 atas nama dr. Piprim Basarah Yanuarso, Sp.A(K); 2. Mewajibkan Tergugat untuk menunda pelaksanaan Keputusan Menteri Kesehatan Republik Indonesia Nomor KP.01.05/A/1053/2025 tentang Mutasi Pegawai Negeri Sipil di Lingkungan Kementerian Kesehatan, te",
+      "final_disposition_amar": "MENGADILI: 1. Mengabulkan permohonan kasasi dari Pemohon Kasasi dr. PIPRIM BASARAH YANUARSO, Sp.A(K); 2. Membatalkan Putusan Pengadilan Tinggi Tata Usaha Negara Jakarta Nomor 22/B/2026/PT.TUN.JKT, tanggal 2 Maret 2026, yang menguatkan Putusan Pengadilan Tata Usaha Negara Jakarta Nomor 238/G/2025/PTUN.JKT, tanggal 9 Desember 2025; MENGADILI SENDIRI: Dalam Eksepsi: - Menyatakan eksepsi-eksepsi Tergugat tidak diterima; Dalam Pokok Perkara: Halaman 9 dari 10 halaman. Putusan Nomor 464 K/TUN/2026 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan batal Keputusan Menteri Kesehatan Republik Indonesia Nomor KP.01.05/A/1053/2025",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Kasasi | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-017",
+    "provenance": {
+      "decision_number": "346 K/TUN/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1lgnuiEiJqnCF9FNwVsQLNcPdTNZWrP7X/view?usp=drivesdk",
+      "sha256_checksum": "d6f114ea2c856c7c6ccf75380e58b917395dab41d3e8fe9bf1442aed9f0f6cd8",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "189/G/2025/PTUN.JKT",
+          "307/B/2025/PT.TUN.JKT"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi tersebut, Mahkamah Agung berpendapat alasan-alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum, dengan pertimbangan sebagai berikut: - Bahwa sebelum diterbitkannya Keputusan Rektor Universitas Indonesia Nomor 475/SK/R/UI/2025 (Objek Sengketa), telah dilaksanakan Rapat Koordinasi Empat Organ Universitas Indonesia pada tanggal 4 Maret 2025 yang dihadiri oleh Majelis Wali Amanat, Senat Akademik, Dewan Guru Besar , dan Rektor untuk membahas pelaksanaan serta tindak lanjut rekomendasi etik dalam rangka penegakan norma etik dan integritas sivitas akademika Universitas Indonesia. Berdasarkan berbagai dokumen resmi, antara la",
+      "parties_arguments_excerpt": "Memori Kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Tata Usaha Negara Jakarta tersebut pada tanggal 11 Februari 2026; Menimbang, b ahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, b ahwa berdasarkan Memori Kasasi yang diterima pada tanggal 11 Februari 2026 , yang merupakan bagian tidak terpisahkan dari Putusan ini, Pemohon Kasasi meminta agar: 1. Menerima dan mengabulkan seluruh permohonan kasasi Pemohon Kasasi (semula Tergug",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 51 Tahun 2009",
+        "Undang-Undang Nomor 9 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat alasan-alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum, dengan pertimbangan sebagai berikut: - Bahwa sebelum diterbitkannya Keputusan Rektor Universitas Indonesia Nomor 475/SK/R/UI/2025 (Objek Sengketa), telah dilaksanakan Rapat Koordinasi Empat Organ Universitas Indonesia pada tanggal 4 Maret 2025 yang dihadiri oleh Majelis Wali Amanat, Senat Akademik, Dewan Guru Besar , dan Rektor untuk membahas pelaksanaan serta tindak lanjut rekomendasi etik dalam rangka penegakan norma etik dan integritas sivitas akademika Universitas Indonesia. Berdasarkan berbagai dokumen resmi, antara lain nota dinas Senat Akade",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang",
+      "final_disposition_amar": "MENGADILI: 1. Mengabulkan permohonan kasasi dari Pemohon Kasasi REKTOR UNIVERSITAS INDONESIA; 2. Membatalkan Putusan Pengadilan Tinggi Tata Usaha Negara Jakarta dengan Putusan Nomor 307/B/2025/PT.TUN.JKT, tanggal 15 Januari 2026, yang menguatkan Putusan Pengadilan Tata Usaha Negara Jakarta Nomor 189/G/2025/PTUN.JKT, tanggal 1 Oktober 2025; MENGADILI SENDIRI: 1. Menolak gugatan Penggugat untuk seluruhnya; 2. Menghukum Termohon Kasasi membayar biaya perkara pada semua tingkat pengadilan, yang pada tingkat kasasi ditetapkan sejumlah Rp400.000,00 (empat ratus ribu Rupiah); Demikianlah diputuskan dalam rapat permusyawaratan Majelis Hakim pada hari Rabu, tanggal 24 Juni 2026 , oleh",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-018",
+    "provenance": {
+      "decision_number": "201 K/TUN/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 6,
+      "drive_source_url": "https://drive.google.com/file/d/1HZmPNeKJrJpWzr_sxIMksP03oZeT-PAV/view?usp=drivesdk",
+      "sha256_checksum": "0b5dc700ef0d873f9931bda6f7dfbae5ddacb105a7195a0ba16098f7545746f2",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "182/B/2025/PT.TUN.JKT",
+          "56/G/2025/PTUN.JKT"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi tersebut Mahkamah Agung berpendapat: Menimbang, bahwa alasan -alasan tersebut tidak dapat dibenarkan, putusan Judex Facti Pengadilan Tinggi Tata Usaha Negara Jakarta sudah benar dan tidak terdapat kesalahan dalam penerapan hukum , dengan pertimbangan sebagai berikut: - Bahwa yang menjadi isu hukum pada tingkat pemeriksaan kasasi ini adalah apakah Judex Facti tingkat banding telah salah menerapkan hukum dalam membatalkan putusan tingkat pertama dan membenarkan keabsahan pencabutan Izin Usaha Pertambangan milik Pemohon Kasasi dari aspek kewenangan, prosedur, dan substansi; - Bahwa secara r egulasi, Pasal 177 ayat (1) juncto Pasal 188 Peraturan Pemerintah Nomor 96",
+      "parties_arguments_excerpt": "Memori Kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Tata Usaha Negara Jakarta tersebut pada tanggal 18 November 2025; Menimbang, b ahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perb",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 1986",
+        "Undang-Undang Nomor 9 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat: Menimbang, bahwa alasan -alasan tersebut tidak dapat dibenarkan, putusan Judex Facti Pengadilan Tinggi Tata Usaha Negara Jakarta sudah benar dan tidak terdapat kesalahan dalam penerapan hukum , dengan pertimbangan sebagai berikut: - Bahwa yang menjadi isu hukum pada tingkat pemeriksaan kasasi ini adalah apakah Judex Facti tingkat banding telah salah menerapkan hukum dalam membatalkan putusan tingkat pertama dan membenarkan keabsahan pencabutan Izin Usaha Pertambangan milik Pemohon Kasasi dari aspek kewenangan, prosedur, dan substansi; - Bahwa secara r egulasi, Pasal 177 ayat (1) juncto Pasal 188 Peraturan Pemerintah Nomor 96 Tahun 2021 tentang Pelak",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan batal atau tidak sa h Pencabutan Izin Nomor 20220302-01- 79379, tanggal 2 Maret 2022 atas nama PT Fajar Cemerlang Indomulya; 3. Mewajibkan Tergugat mencabut Pencabutan Izin Nomor 20220302 -01- 79379, tanggal 2 Maret 2022 atas nama PT Fajar Cemerlang Indomulya; 4. Menghukum Tergugat membayar biaya perkara; Atau, apabila Yang Mulia Majelis Hakim yang memeriksa dan mengadili perkara a quo berpendapat lain, mohon agar Majelis Hakim memberikan putusan yang seadil-adil",
+      "final_disposition_amar": "MENGADILI: 1. Menolak permoh onan kasasi dari Pemohon Kasasi PT FAJAR CEMERLANG INDOMULYA; 2. Menghukum Pemohon Kasasi membayar biaya perkara pada tingkat kasasi sejumlah Rp400.000,00 (empat ratus ribu Rupiah); Demikianlah diputuskan dalam rapat permusyawar atan Majelis Hakim pada hari Rabu, tanggal 5 Agustus 2026, oleh Prof. Dr. H. Yulius, S.H., M.H., Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait den",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-019",
+    "provenance": {
+      "decision_number": "446 K/TUN/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1gaU1orq7m2b3cA7RbwnONhK197t5J_hv/view?usp=drivesdk",
+      "sha256_checksum": "49e0e5da24cf3c30d28616c50753d05199f9efc61d7a719bcb163607047e679e",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "170/G/2025/PTUN.JKT",
+          "170/G/2025/PTUN.JKT Tertanggal 15",
+          "318/B/2025/PT.TUN.JKT",
+          "318/B/2025/PT.TUN.JKT Tertanggal"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi tersebut Mahkamah Agung berpendapat: Menimbang, bahwa alasan-alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: - Bahwa dalam perkara a quo menggunakan ketentuan Peraturan Menteri Kelautan dan Perikanan Republik Indonesia Nomor 26 Tahun 2022 tentang Perubahan atas Peraturan Menteri Kelautan dan Perikanan Republik Indonesia Nomor 31 Tahun 2021 tentang Pengenaan Sanksi Administratif di Bidang Kelautan dan Perikanan yang mengatur mengenai Upaya Administratif yang terdiri atas Keberatan dan Banding Adminsitratif (Pasal 47A ayat (1) dan ayat (2)) dan apabila pelaku usaha tidak m eneri",
+      "parties_arguments_excerpt": "Memori Kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Tata Usaha Negara Jakarta tersebut pada tanggal 13 Februari 2026; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perba",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 9 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan kasasi tersebut Mahkamah Agung berpendapat: Menimbang, bahwa alasan-alasan tersebut dapat dibenarkan, karena Judex Facti telah keliru dan salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: - Bahwa dalam perkara a quo menggunakan ketentuan Peraturan Menteri Kelautan dan Perikanan Republik Indonesia Nomor 26 Tahun 2022 tentang Perubahan atas Peraturan Menteri Kelautan dan Perikanan Republik Indonesia Nomor 31 Tahun 2021 tentang Pengenaan Sanksi Administratif di Bidang Kelautan dan Perikanan yang mengatur mengenai Upaya Administratif yang terdiri atas Keberatan dan Banding Adminsitratif (Pasal 47A ayat (1) dan ayat (2)) dan a",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan batal atau tidak sah Surat Keputusan yang dikeluarkan oleh Tergugat berupa Surat Nomor 184/DJPSDKP/PW.210/II/2025 Tanggal 25 Februari 2025, Perihal Penetapan Denda Administratif Saudara Arsin; 3. Mewajibkan Tergugat untuk mencabut Surat Keputusan Direktur Jenderal Pengawasan Sumber Daya Kelautan dan Perikanan Nomor 184/DJPSDKP/PW.210/II/2025, Tanggal 25 Februari 2025, Perihal Penetapan Denda Administratif Saudara Arsin; 4. Menghukum Tergugat membayar biaya yang ti",
+      "final_disposition_amar": "MENGADILI: 1. Mengabulkan permohonan kasasi dari Pemohon Kasasi ARSIN BIN ASIP; 2. Membatalkan Putusan Pengadilan Tinggi Tata Usaha Negara Jakarta dengan Putusan Nomor 318/B/2025/PT.TUN.JKT, tanggal 22 Januari 2026, yang menguatkan Putusan Pengadilan Tata Usaha Negara Jakarta Nomor 170/G/2025/PTUN.JKT, tanggal 15 Oktober 2025; MENGADILI SENDIRI: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan bata l Surat Keputusan yang dikeluarkan oleh Tergugat berupa Surat Nomor 184/DJPSDKP/PW.210/II/2025, tanggal 25 Februari 2025, Perihal Penetapan Denda Administratif Saudara Arsin; 3. Mewajibkan Tergugat untuk mencabut Surat Keputusan Direktur Jenderal Pengawasan Sumber Daya",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-020",
+    "provenance": {
+      "decision_number": "742 K/TUN/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1qhjRE3dO7li0OmchZvJeIsLuUHh7lt8V/view?usp=drivesdk",
+      "sha256_checksum": "c4e8e4418aa22b0bf7e4e4fd3c357be0fb9ac0c5ea0e77d98e037649292e85b0",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "130/B/2026/PT.TUN.JKT",
+          "62/G/2026/PTUN.JKT"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi tersebut Mahkamah Agung berpendapat: Menimbang, bahwa terlepas dari alasan -alasan kasasi dari Pemohon Kasasi, Judex Facti telah salah menerapkan hukum dengan pertimbangan sebagai berikut: 1. Bahwa dalam hal Peradilan Tata Usaha Negara tidak dapat menjangkau kewenangan untuk memeriksa dan memutus sengketa proses Pemilu (sengketa tata usaha negara khusus) karena limitasi subjek, objek Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal",
+      "parties_arguments_excerpt": "Memori Kasasi yang memuat alasan-alasan yang diunggah pada tanggal 24 Agustus 2026 dan diverifikasi di Kepaniteraan Pengadilan Tata Usaha Negara Jakarta tersebut pada tanggal 28 Agustus 2026; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahuk an kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 51 Tahun 2009",
+        "Undang-Undang Nomor 7 Tahun 2023",
+        "Undang-Undang Nomor 9 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan -alasan kasasi tersebut Mahkamah Agung berpendapat: Menimbang, bahwa terlepas dari alasan -alasan kasasi dari Pemohon Kasasi, Judex Facti telah salah menerapkan hukum dengan pertimbangan sebagai berikut: 1. Bahwa dalam hal Peradilan Tata Usaha Negara tidak dapat menjangkau kewenangan untuk memeriksa dan memutus sengketa proses Pemilu (sengketa tata usaha negara khusus) karena limitasi subjek, objek Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fung",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan dari Penggugat untuk seluruhnya; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi i",
+      "final_disposition_amar": "MENGADILI: 1. Mengabulkan permohonan kasasi dari Pemohon Kasasi H.M. SUBHAN, S.H., M.H.; 2. Membatalkan Putusan Pengadilan Tinggi Tata Usaha Negara Jakarta Nomor 130/B/2026/PT.TUN.JKT, tanggal 12 Agustus 2026 yang menguatkan Putusan Pengadilan Tata Usaha Negara Jakarta Nomor 62/G/2026/PTUN.JKT, tanggal 21 Mei 2026; MENGADILI SENDIRI: Dalam Eksepsi: - Menyatakan eksepsi Tergugat tidak diterima; Dalam Pokok Perkara: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 8,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-021",
+    "provenance": {
+      "decision_number": "1 P/UP/2026",
+      "proceeding_level": "Uji Pendapat",
+      "chamber": "TUN",
+      "decision_year": 2026,
+      "pages": 30,
+      "drive_source_url": "https://drive.google.com/file/d/1KIIYqtIlNC91kaYGoMraVbv5VBqKNx4R/view?usp=drivesdk",
+      "sha256_checksum": "1dba737d338a98765404065b0f07cddc9354c3848af1c2dc76f0bf4906c49c8b",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "permohonan uji pendapat terhadap Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Gowa Nomor 19/VIII/2026 tentang Pendapat Dewan Perwakilan Rakyat Daerah Kabupaten Gowa Atas Hasil Pelaksanaan Hak Angket Terhadap Bupati Gowa, dalam tingkat pertama dan terakhir telah memutuskan sebagai berikut, dalam permohonan: DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN GOWA , tempat kedudukan di Jalan Mesjid Raya Nomor 26, Sungguminasa, Kecamatan Somba Opu , Kabupaten Gowa Provinsi Sulawesi Selatan , yang diwakili oleh H. Fahmi Adam, S.E., M.H., jabatan Ketua Dewan",
+      "parties_arguments_excerpt": null,
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 17 Tahun 2014",
+        "Undang-Undang Nomor 23 Tahun 2014",
+        "Undang-Undang Nomor 28 Tahun 1999",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 30 Tahun 2014",
+        "Undang-Undang Nomor 5 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat dengan pertimbangan sebagai berikut: Kewenangan Mahkamah Agung; Menimbang, bahwa berdasarkan Pasal 80 ayat (1) huruf c Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, Mahkamah Agung berwenang memeriksa, mengadili, dan memutus pendapat Dewan Perwakilan Rakyat Daerah mengenai dugaan pelanggaran oleh Kepala Daerah, sebagai salah satu tahapan dalam mekanisme pemberhentian Kepala Daerah. Ketentuan tersebut bersesuaian dengan Pasal 37 Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung sebagaimana telah beberapa",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan Pasal 80 ayat (1) huruf c Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, Mahkamah Agung berwenang memeriksa, mengadili, dan memutus pendapat Dewan Perwakilan Rakyat Daerah mengenai dugaan pelanggaran oleh Kepala Daerah, sebagai salah satu tahapan dalam mekanisme pemberhentian Kepala Daerah. Ketentuan tersebut bersesuaian dengan Pasal 37 Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Kedua a",
+      "final_disposition_amar": "MENGADILI: 1. Mengabulkan permohonan uji pendapat dari Pemohon DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN GOWA ; Halaman 28 dari 30 halaman. Putusan Nomor 1 P/UP/2026 Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi inform",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Uji Pendapat | TUN | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 5,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-022",
+    "provenance": {
+      "decision_number": "492 K/Ag/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Agama",
+      "decision_year": 2026,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1ryBX1B6FyXRWWO3H8b8iozePU24nyvn6/view?usp=drivesdk",
+      "sha256_checksum": "ad42980f911020203856723781df981588876e184cca4c11dba39fa2e98f21be",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "135/Pdt.G/2025/PTA.Mdn. tanggal 22 De",
+          "135/Pdt.G/2025/PTA.Mdn. yang dibuat o",
+          "198/Pdt.G/2025/PA.Mdn. juncto Nomor",
+          "198/Pdt.G/2025/PA.Mdn. tanggal 25 Se"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Selasa, tanggal 7 Juli 2026 oleh Dr"
+      },
+      "legal_issues_excerpt": "alasan-alasan kasasi: Bahwa alasan -alasan kasasi tidak dapat dibenarkan karena Judex Facti/Pengadilan Tinggi Agama Medan tidak salah dalam menerapkan hukum, dengan pertimbangan sebagai berikut: Bahwa antara Penggugat dan Tergugat ada hub ungan hukum dalam bentuk perjan jian asuransi sebagaimana Polis Nomor 14012680. Dalam perjanjian asuransi, prinsip umum memiliki masa inkontestabilitas selama 2 (dua) tahun pertama, yakn i menyelidiki sejak polis diterbitkan, dalam hal ini adalah hak perusahaan untuk meny elidiki dan menolak klaim jika ditemukan adanya kesalahan data atau pemalsuan ( non-disclosure). Berdasarkan pemeriksaan perkara a quo , terbukti asuransi masih dalam masa ink",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan-alasan yang diterima di Kepaniteraan Pengadilan Agama tersebut pada tanggal 19 Januari 2026; Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 4 dari 8 hal. Put. Nomor 492 K/Ag/2026 Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 19 Januari 2026",
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat bahwa meskipun ditemukan ketidakcocokan dalam pengisian SPAJ tentang pembayaran oleh pihak ketiga dan penghasilan yang tidak sesuai, akan tetapi tidak menyebabkan batalnya perjanj ian asuransi sejauh pembayaran dilakukan secara rutin sesuai perjanjian, kecuali pihak ketiga tersebut menghentikan pembay aran yang berakibat risiko lapse yakni polis batal secara otomatis. Sedangkan ketidaksesuaian tentang penghasilan yang dinyatakan dalam SPAJ, tidak dapat menjadi alasan penolakan pembayaran klaim karena pencantuman penghasilan diperlukan untuk memastikan kemampuan pembayaran premi, sedangkan faktanya premi tetap dibayarkan; Bahwa jika Tergugat menemukan",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Primer: 1. Menerima dan mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan Perjanjian Asuransi Jiwa Syariah Polis Nomor 14012680, jenis produk PRUlink Syariah Generasi Baru, sah menurut hukum dan mengikat; 3. Menyatakan Pasal 6 (ayat 1 huruf d pekerjaan dan huruf e besar penghasilan) Ketentuan Umum Polis Nomor 14012680 bertentangan dengan hukum sehingga tidak dapat diberlakukan atau dipergunakan untuk menolak uang santunan atau membatalkan Polis Nomor 14012680; 4. Menyatakan Tergugat (PT Prudential Sharia Life A",
+      "final_disposition_amar": "M E N G A D I L I: Menolak permohonan kasasi dari Pemohon Kasasi PT PRUDENTIAL SHARIA LIFE ASSURANCE, tersebut; Menghukum Pemohon Kasasi untuk membayar biaya perkara dalam tingkat kasasi ini sejumlah Rp400.000,00 (empat ratus ribu rupiah); Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Selasa, tanggal 7 Juli 2026 oleh Dr. H. Imron Rosyadi, S.H., M.H., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Dra. Hj. Muhayah, S.H., M.H. dan Dr. Hj. Lail atul Arofah, M.H., Hakim-Hakim Agung sebagai anggota dan diucapkan dalam sidang terbuka untuk umum pada hari itu juga oleh Ketua Majelis dengan dihadiri Dokumen ini telah ditandatangani s",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Konstitusi Nomor 83/PUU"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Agama | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 8,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2024-023",
+    "provenance": {
+      "decision_number": "324 K/Ag/2024",
+      "proceeding_level": "Kasasi",
+      "chamber": "Agama",
+      "decision_year": 2024,
+      "pages": 7,
+      "drive_source_url": "https://drive.google.com/file/d/15nvahHXZvhSJB9b8zmssD4GgqXs9ueGu/view?usp=drivesdk",
+      "sha256_checksum": "6f4793497a81b8be3a48a9abe05792f0b6d526ce4d6fe03293bf8856ee08d9c9",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": null,
+      "parties_arguments_excerpt": null,
+      "applicable_legal_provisions": [],
+      "judicial_reasoning_excerpt": null,
+      "legal_holdings_excerpt": null,
+      "final_disposition_amar": null,
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "Kasasi | Agama | 2024"
+    },
+    "completeness_flags": {
+      "fields_populated": 0,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-024",
+    "provenance": {
+      "decision_number": "568 K/Ag/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Agama",
+      "decision_year": 2026,
+      "pages": 26,
+      "drive_source_url": "https://drive.google.com/file/d/1FvRqAN1LfmYnnekjo8OAXtn5zIWC9M6A/view?usp=drivesdk",
+      "sha256_checksum": "c27a3b621103c02946c316c5db01161b65a316842b7a5bea018710ae49e45b42",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "183/Pdt.G/2025/PA.Smd. tanggal 10 No",
+          "183/Pdt.G/2025/PA.Smd. tanggal 10 Nov",
+          "183/Pdt.G/2025/PA.Smd. yang dibuat ol",
+          "28/Pdt.G/2021/PTA.Smd.",
+          "62/Pdt.G/2025/PTA.Smd. tanggal 20 J",
+          "62/Pdt.G/2025/PTA.Smd. tanggal 20 Ja"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Rabu,"
+      },
+      "legal_issues_excerpt": "alasan-alasan kasasi: Bahwa alasan -alasan kasasi mengenai Judex Facti /Pengadilan Tinggi Agama Samarinda telah salah dalam menerapkan hukum dalam perkara a quo , tidak dapat dibenarkan, karena Judex Facti /Pengadilan Tinggi Agama Samarinda telah mempertimbangkan dan memutus perkara a quo dengan tepat dan benar dengan pertimbangan sebagai berikut: Bahwa alasan kasasi mengenai substansi sengketa pada objek angka 19.6 yang dianggap sebagai sengketa ganti rugi pembebasan lahan yang melibatkan badan hukum PT KPC sehingga menjadi kewenangan Pengadilan Negeri, tidak dapat dibenarkan, sebab berdasarkan hasil pemeriksaan Judex Facti, objek angka 19.6 tersebut telah terjual kepada PT KPC",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Agama tersebut pada tanggal 4 Februari 2026; Menimbang, bahwa permohonan kasasi a quo beserta alasan -alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang -undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 4 Februari 2026 yang merupakan bagian tidak terpisahkan dari Putusan ini, para Pemohon Kasasi meminta agar Mahkamah Agung menjatuhkan putusan sebagai berikut: 1. Menerima dan mengabulkan permohonan kasasi dari para",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 16 Tahun 2019",
+        "Undang-Undang Nomor 3 Tahun 2006",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 2004"
+      ],
+      "judicial_reasoning_excerpt": "Mahkamah Agung berpendapat Tergugat I tetap mempunyai kedudukan sebagai istri Pewaris dan karenanya mempunyai hak untuk mewarisi harta peninggalan Pewaris, di mana istri pertama (Puji Rahayu binti Suwito) dan istri kedua (A gusdiana binti Bakrie) secara bersama -sama mendapat bagian 1/8 (seperdelapan) sebagaimana ketentuan firman Allah dalam Surah al - Nisa` ayat 12 yang menyatakan: Artinya: “Jika kamu mempunya i anak, bagi mereka (para istri) seperdelapan dari harta yang kamu tinggalkan”. Bahwa meskipun demikian, perkawinan yang kedua tersebut tetap tidak menimbulkan hak kebendaan lainnya dalam bentuk harta bersama sebagai konsekuensi perkawinan kedua yang dilangsungkan tanp",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, para Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Halaman 3 dari 26 hal. Put. Nomor 568 K/Ag/2026 Primer: 1. Menerima dan mengabulkan gugatan para Penggugat seluruhnya; 2. Menyatakan Nafiah Said bin Said Abu Bakar telah meninggal dunia pada tanggal 30 November 2019 karena sakit; 3. Menyatakan dan menetapkan ahli waris dari Nafiah Said bin Said Abu Bakar adalah sebagai berikut: 3.1 Puji Rahayu binti Suwito (istri/Penggugat I); 3.2 Toufer Maulana Putra bin Nafiah Said (anak laki-laki/Penggugat II); 3.3 May Nafillya Putri binti Nafiah Said (anak perempuan/Pengg",
+      "final_disposition_amar": "M E N G A D I L I: Menolak permohonan kasasi dari para Pemohon Kasasi ; 1. AGUSDIANA binti BAKRIE , 2. NADIA CITRA NAFIAH binti BAKRIE alias NAFIAH SAID , tersebut; Memperbaiki Putusan Pengadilan Tinggi Agama Samarinda Nomor 62/Pdt.G/2025/PTA.Smd. tanggal 20 Januari 2026 Masehi bertepatan dengan tanggal 1 Syakban 1447 Hijriah, sehingga amar selengkapnya sebagai berikut: - Menyatakan permohonan banding para Pembanding dapat diterima; - Membatalkan Putusan Pengadilan Agama Samarinda Nomor 183/Pdt.G/2025/PA.Smd. tanggal 10 November 2025 Masehi bertepatan dengan tanggal 19 Jumadilawal 1447 Hijriah, dengan mengadili sendiri: Dalam Eksepsi - Menolak eksepsi Tergugat I dan Tergugat",
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Konstitusi Nomor 46/PUU-VIII/2010"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION).",
+      "observatory_tag": "Kasasi | Agama | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 9,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-025",
+    "provenance": {
+      "decision_number": "205 K/Ag/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Agama",
+      "decision_year": 2026,
+      "pages": 10,
+      "drive_source_url": "https://drive.google.com/file/d/1WKxF2Qk4SdrX2DEcPyhvaJK-nBAahWbl/view?usp=drivesdk",
+      "sha256_checksum": "8d2da2ac78f12fe8741e30c660b75e881818c9a816facf3b18a7c66a9d1aa48c",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "641/Pdt.G/2025/PA.Tng. tanggal 27 Agu",
+          "641/Pdt.G/2025/PA.Tng. yang dibuat o",
+          "641/Pdt.G/2025/PA.Tng. yang dibuat ol",
+          "92/Pdt.G/2025/PTA.Btn. juncto Nomor",
+          "92/Pdt.G/2025/PTA.Btn. tanggal 29 Ok"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Selasa, tanggal 7 April 2026 oleh Dr"
+      },
+      "legal_issues_excerpt": "alasan-alasan kasasi: Bahwa alasan kasasi mengenai Judex Facti/Pengadilan Tinggi Agama Banten salah dalam menerapkan hukum tidak dapat dibenarkan , Judex Facti/Pengadilan Tinggi Agama Banten dinilai telah tepat dan benar dalam menerapkan hukum, dengan pertimbangan sebagai berikut: Bahwa alasan kasasi para Pemohon Kasasi mengenai kompetensi absolut peradilan tidak dapat dibenarkan, karena meskipun dalam perjanjian pinjam pakai antara nazir dan pemerintah Kota Tangerang dicantumkan klausul penyelesaian sengketa melalui P engadilan Negeri, klausul tersebut tidak dapat mengesampingkan ketentuan Pasal 49 Undang-Undang Nomor 7 Tahun 1989 tentang Peradilan Agama sebagaimana telah diuba",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan tersebut pada hari itu juga; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan s aksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 13 November 2025 yang merupakan bagian tidak terpisahkan dari Putusan ini, para Pemohon Kasasi meminta agar: Primer: 1. Menerima permohonan kasasi dari para Pemohon Kasasi; 2. Membatalkan Putusan Pengadilan Tinggi Agama Banten Nomor",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 3 Tahun 2006",
+        "Undang-Undang Nomor 41 Tahun 2004",
+        "Undang-Undang Nomor 7 Tahun 1989"
+      ],
+      "judicial_reasoning_excerpt": null,
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat-surat yang bersangkutan, para Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: Primer: 1. Mengabulkan gugatan para Penggugat seluruhnya; 2. Menyatakan bahwa sebidang tanah darat kosong yang terletak di Des a Pinang, Kecamatan Cipondoh , Kabupaten Tangerang , saat ini dikenal dengan alamat J alan KH. Hasyim Ashari , Gang Kelurahan Lama , RT. 005 RW. 001, Kelurahan Neroktog, Kecamatan Pinang, Kota Tangerang, Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 3 dari 10 hal. Put. Nomor 205 K/Ag/2026",
+      "final_disposition_amar": "M E N G A D I L I: Menolak permohonan kasasi dari para Pemohon Kasasi : 1. WALIKOTA TANGERANG c.q. KEPALA BADAN PENDAPATAN PENGELOLAAN KEUANGAN DAN ASET DAERAH KOTA TANGERANG , 2. WALIKOTA TANGERANG c.q. LURAH KELURAHAN NEROKTOG KECAMATAN PINANG KOTA TANGERANG dahulu masuk wilayah hukum KECAMATAN CIPONDOH KABUPATEN TANGERANG dan 3. WALIKOTA TANGERANG c.q. CAMAT KECAMATAN PINANG KOTA TANGERANG dahulu wilayah hukum KECAMATAN CIPONDOH KABUPATEN TANGERANG, tersebut; Memperbaiki Putusan Pengadilan Tinggi Agama Banten Nomor 92/Pdt.G/2025/PTA.Btn. tanggal 29 Oktober 2025 Masehi bertepatan dengan tanggal 7 Jumadil awal 1447 Hijriah, sehingga amar selengkapny",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Agama | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-026",
+    "provenance": {
+      "decision_number": "698 K/Ag/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Agama",
+      "decision_year": 2026,
+      "pages": 14,
+      "drive_source_url": "https://drive.google.com/file/d/1o3SAahJG4uFcfZaKp7ncazcKU1K2Fbpj/view?usp=drivesdk",
+      "sha256_checksum": "83de8ae5056d289c5deda0fbbc799ed96705a3d44a98f78e15c4e580b8bc0928",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "110/Pdt.G/1994/PA.Kdi. tanggal 26 Sep",
+          "138/AC/1994/PA.Kdi. tanggal 11 Okt",
+          "3/Pdt.G/2026/PTA.Kdi. tanggal 5 Mar",
+          "815/Pdt.G/2025/PA.Kdi . tanggal 5 Jan",
+          "815/Pdt.G/2025/PA.Kdi. tanggal 5 Janu",
+          "815/Pdt.G/2025/PA.Kdi. yang dibuat ol"
+        ],
+        "decision_date_text": "Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Rabu, tanggal 14 Oktober 2026 oleh Dr"
+      },
+      "legal_issues_excerpt": "alasan-alasan kasasi: Bahwa alasan-alasan kasasi tersebut tidak dapat dibenarkan, karena Mahkamah Agung menilai Judex Facti /Pengadilan Tinggi Agama Kendari telah mempertimbangkan perkara a quo secara tepat dan benar serta tidak salah dalam menerapkan hukum dengan pertimbangan sebagai berikut: Bahwa perkara a quo merupakan sengketa dalam bidang perkawinan, oleh karena itu berdasarkan ketentuan Pasal 89 ayat (1) Undang -Undang Nomor 7 Tahun 1989 sebagaimana telah diubah dengan Undang -Undang Nomor 3 Tahun 2006 dan perubahan kedua dengan Undang-Undang Nomor 50 Tahun 2009, maka biaya perkara dibebankan kepada Penggugat sebagai pihak yang mengajukan perkara . Dengan demikian Putusan J",
+      "parties_arguments_excerpt": "memori kasasi yang memuat alasan -alasan yang diterima di Kepaniteraan Pengadilan Agama tersebut pada tanggal 2 April 2026; Menimbang, bahwa permohonan kasasi a quo beserta alasan - alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; Menimbang, bahwa berdasarkan memori kasasi yang diterima tanggal 2 April 2026 yang merupakan bagian tidak terpisahkan dari Putusan ini, Pemohon Kasasi memohon agar: 1. Menerima dan mengabulkan permohonan Pemohon Kasasi tersebut; 2. Membatalkan Putusan Pengadilan Tinggi Agama Kendari",
+      "applicable_legal_provisions": [
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 2004",
+        "Undang-Undang Nomor 50 Tahun 2009"
+      ],
+      "judicial_reasoning_excerpt": null,
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan surat -surat yang bersangkutan, Penggugat dalam gugatannya memohon kepada Pengadilan untuk memberikan putusan sebagai berikut: 1. Mengabulkan gugatan Penggugat untuk seluruhnya; 2. Menyatakan sita jaminan atas objek sengketa berupa mahar/maskawin Penggugat berupa sebidang tanah luas 8.171 (delapan ribu seratus tujuh puluh satu) meter persegi sesuai dengan Sertipikat Hak Milik Nomor 397/Desa Puwatu tahun 1993, Gambar Situasi Nomor 2369/1991 tanggal 23 April 1991 atas nama Rasulung adalah sah dan berharga; 3. Menyatakan perkawinan Penggugat dengan Tergugat I yang dilangsungkan pada tanggal 16 September 1 984 di Kelurahan Kemaraya, Kecamatan Kendari ,",
+      "final_disposition_amar": "M E N G A D I L I: Menolak permohonan kasasi dari Pemohon Kasasi, Hj. SALMA alias Hj. HUSNIA SALMA binti MUHAMMAD, tersebut; Membebankan kepada Pemohon Kasasi untuk membayar biaya perkara dalam tingkat kasasi ini sejumlah Rp 400.000,00 ( empat ratus ribu rupiah); Demikian diputuskan dalam rapat musyawarah Majelis Hakim pada hari Rabu, tanggal 14 Oktober 2026 oleh Dr. H. Yasardin, S.H., M.Hum., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Dr. H. Imron Rosyadi, S.H., M.H., dan Dra. Hj. Muhayah, S.H., M.H. , Hakim-Hakim Agung sebagai anggota dan diucapkan dalam sidang terbuka untuk umum pada hari itu juga oleh Ketua Majelis dengan dihadiri para H",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (SK_KMA_2_144_FAMILY_OR_CHILD_REQUIRES_ANONYMISATION; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Agama | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2025-027",
+    "provenance": {
+      "decision_number": "8432 K/Pid.Sus/2025",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana Khusus",
+      "decision_year": 2025,
+      "pages": 89,
+      "drive_source_url": "https://drive.google.com/file/d/14qcEtAGE3dUqQUe0cVbIeU9w2a1Knpyf/view?usp=drivesdk",
+      "sha256_checksum": "c4240331d8a9e80859b61950eddc4d8a1ed14ea30e2266c8cdad7e59410d1267",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "40/Pid.Sus-TPK/2024/PN Jkt.Pst tanggal 19"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum dalam memori kasasi selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum dalam memori kasasinya pada pokoknya adalah bahwa judex facti /Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat telah salah dalam menerapkan hukum atau tidak menerapkan peraturan hukum sebagaimana mestinya; - Bahwa alasan kasasi Penuntut Umum tersebut dapat dibenarkan, karena putusan judex facti /Pengadilan Tindak Pidana Korupsi pada Pengadila",
+      "parties_arguments_excerpt": "Memori Kasasi tanggal 9 April 2025 dari Penuntut Umum pada Kejaksaan Negeri Jakarta Pusat tersebut sebagai Pemohon Kasasi, yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat pada tanggal 9 April 2025; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat tersebut telah di ucapkan dengan hadirnya Penuntut Umum pada Kejaksaan Negeri Jakarta Pusat pada tanggal 19 Maret 2025 dan Penuntut Umum tersebut mengajukan permohonan kasasi pada tanggal 27 Maret 2025 serta memori kasasinya telah diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pa",
+      "applicable_legal_provisions": [
+        "PERMA Nomor 1 Tahun 2020",
+        "Pasal 55 Ayat (1) ke -1 KUHP",
+        "Pasal 55 Ayat (1) ke-1 KUHP",
+        "Pasal 67 juncto Pasal 244 KUHAP",
+        "Undang-Undang Nomor 20 Tahun 2001",
+        "Undang-Undang Nomor 20 tahun 2001",
+        "Undang-Undang Nomor 31 Tahun 1999",
+        "Undang-Undang Nomor 31 tahun 1999",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 8 Tahun 1981",
+        "Undang-Undang Nomor 8 Tahun 1995"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum dalam memori kasasinya pada pokoknya adalah bahwa judex facti /Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat telah salah dalam menerapkan hukum atau tidak menerapkan peraturan hukum sebagaimana mestinya; - Bahwa alasan kasasi Penuntut Umum tersebut dapat dibenarkan, karena putusan judex facti /Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat yang dalam putusannya menyatakan Terdakwa PT MULTIMAS NABATI ASAHAN, PT MULTI NABATI SULAWESI , PT",
+      "legal_holdings_excerpt": "Menimbang bahwa berdasarkan pertimbangan di atas, perbuatan Para Terdakwa Korporasi terbukti melakukan tindak pidana dalam Pasal 2 Ayat (1) juncto Pasal 18 Undang -Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana telah diubah dengan Undang-Undang Nomor 20 tahun 2001 tentang Perubahan atas Undang - Undang Nomor 31 Tahun 1999 tentang Pemberantasan Ti ndak Pidana Korupsi juncto Pasal 55 Ayat (1) ke -1 KUHP , sebagaimana didakwakan Penuntut Umum dalam surat dakwaannya, maka permohonan kasasi dari Pemohon Kasasi/Penuntut Umum tersebut dikabulkan; Menimbang bahwa dengan demikian terdapat cukup alasan untuk mengabulkan permohonan kasasi dari Pemohon Kasasi",
+      "final_disposition_amar": "M E N G A D I L I: - Mengabulkan permohonan kasasi dari Pemohon Kasasi/ PENUNTUT UMUM pada KEJAKSAAN NEGERI JAKARTA PUSAT tersebut; - Membatalkan Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat Nomor 40/Pid.Sus -TPK/2024/PN Jkt.Pst tanggal 19 Maret 2025; MENGADILI SENDIRI: 1. Menyatakan Terdakwa Korporasi PT MULTIMAS NABATI ASAHAN, PT MULTI NABATI SULAWESI , PT SINAR ALAM PERMAI , PT WILMAR BIOENERGI INDONESIA , PT WILMAR NABATI INDONESIA telah terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “Korupsi yang dilakukan secara bersama-sama”; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Kasasi | Pidana Khusus | 2025"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-028",
+    "provenance": {
+      "decision_number": "7734 K/Pid.Sus/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana Khusus",
+      "decision_year": 2026,
+      "pages": 13,
+      "drive_source_url": "https://drive.google.com/file/d/1oqUrRzC5T2I-7y4pTkECrWyEsOcXuDOm/view?usp=drivesdk",
+      "sha256_checksum": "7c7cb7c5d81531bec6512f7cf2d1df43eff3d20fb5b45eb64d1dc3d1d64047a9",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "26/Pid.Sus-TPK/2025/PN Jmb",
+          "26/Pid.Sus-TPK/2025/PN Jmb tanggal",
+          "26/Pid.Sus-TPK/2025/PN Jmb tanggal 8 Janua",
+          "8/PID.SUS-TPK/2026/PT JMB tanggal 4 Maret"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi yang diajukan Pemohon Kasasi I/ Penuntut Umum dan Pemohon Kasasi II/Terdakwa dalam memori kasasi selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi Terdakwa pada pokoknya menyatakan judex facti tidak menerapkan peraturan hukum sebagaimana mestinya, berdasarkan fakta di persidangan Terdakwa lebih tepat diterapkan Pasal 3 juncto Pasal 18 Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana telah diubah dan ditambah dengan Undang - Undang Nomor 20 Tah",
+      "parties_arguments_excerpt": "Memori Kasasi tanggal 25 Maret 2026 dari Penuntut Umum pada Kejaksaan Negeri Jambi tersebut sebagai Pemohon Kasasi I yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 30 Maret 2026; Membaca Memori Kasasi tanggal 30 Maret 2026 dari Penasihat Hukum Terdakwa yang bertindak untuk dan atas nama Terdakwa berdasarkan Surat Kuasa Khusus tanggal 16 Maret 2026 tersebut sebagai Pemohon Kasasi II yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 30 Maret 2026; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tin",
+      "applicable_legal_provisions": [
+        "Pasal 197 Ayat (1) huruf f KUHAP",
+        "Pasal 55 Ayat ( 1) ke -1 KUHP",
+        "Pasal 55 Ayat (1) ke -1 KUHP",
+        "Pasal 55 Ayat (1) ke-1 KUHP",
+        "Undang-Undang Nomor 1 Tahun 2026",
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 20 Tahun 2001",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 31 Tahun 1999",
+        "Undang-Undang Nomor 8 Tahun 1981"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi Terdakwa pada pokoknya menyatakan judex facti tidak menerapkan peraturan hukum sebagaimana mestinya, berdasarkan fakta di persidangan Terdakwa lebih tepat diterapkan Pasal 3 juncto Pasal 18 Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana telah diubah dan ditambah dengan Undang - Undang Nomor 20 Tahun 2001 tentang Perubahan Atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi juncto Pasal 55 Ayat (1) ke -1 KUHP sebagaiman",
+      "legal_holdings_excerpt": "Menimbang bahwa berdasarkan pertimbangan tersebut, maka permohonan kasasi dari Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut dinyatakan ditolak dengan perbaikan; Menimbang bahwa dengan demikian, Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tinggi Jambi Nomor 8/PID.SUS-TPK/2026/ PT JMB tanggal 4 Maret 2026 yang mengubah Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi Nomor 26/Pid.Sus-TPK/2025/ PN Jmb tanggal 8 Januari 2026 harus diperbaiki mengenai pidana yang dijatuhkan kepada Terdakwa; Menimbang bahwa karena Terdakwa dipidana, maka dibebani untuk membayar biaya perkara pada tingkat kasasi; Mengingat Pasal 2 Ayat (1) j",
+      "final_disposition_amar": "M E N G A D I L I: − Menolak permohonan kasasi dari Pemohon Kasasi I/ PENUNTUT UMUM pada KEJAKSAAN NEGERI JAMBI tersebut; Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang seharusnya ada, namun belum tersed",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Pidana Khusus | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-029",
+    "provenance": {
+      "decision_number": "7733 K/Pid.Sus/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana Khusus",
+      "decision_year": 2026,
+      "pages": 77,
+      "drive_source_url": "https://drive.google.com/file/d/10E7eYlHR60utF23jTpfi2Mi9mwEQPqR6/view?usp=drivesdk",
+      "sha256_checksum": "222265037d286deabd09b725628eb41e5461201bcf31a2a599968400c089a5a7",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "10/PID.SUS-TPK/2026/PT JMB tanggal 4 Maret",
+          "28/Pid.Sus-TPK/2025/PN Jmb tanggal 8 Janua"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi yang diajukan Pemohon Kasasi I/ Penuntut Umum dan Pemohon Kasasi II/Terdakwa dalam memori kasasi selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: − Bahwa alasan kasasi Penuntut Umum pada pokoknya adalah mengenai judex facti telah salah dalam menerapkan hukum dengan menyatakan Terdakwa terbukti bersalah melakukan perbuatan dalam dakwaan Primair, berdasarkan fakta hukum, perbuatan Terdakwa yang tepat menurut Penuntut Umum adalah terbukti dakwaan Subsidair. Selain itu judex facti juga salah menerapkan hukum dengan tidak",
+      "parties_arguments_excerpt": "Memori Kasasi tanggal 25 Maret 2026 dari Penuntut Umum pada Kejaksaan Negeri Jambi tersebut sebagai Pemohon Kasasi I yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 30 Maret 2026; Membaca Memori Kasasi tanggal 31 Maret 2026 dari Penasihat Hukum Terdakwa yang bertindak untuk dan atas nama Terdakwa berdasarkan Surat Kuasa Khusus tanggal 9 Maret 2026 tersebut sebagai Pemohon Kasasi II yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 31 Maret 2026; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tinggi Jambi ter",
+      "applicable_legal_provisions": [
+        "Pasal 183 KUHAP",
+        "Pasal 253 Ayat (1) KUHAP",
+        "Pasal 55 Ayat (1) ke-1 KUHP",
+        "Undang-Undang Nomor 1 Tahun 2023",
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 17 Tahun 1968",
+        "Undang-Undang Nomor 20 Tahun 2001",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 31 Tahun 1999",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 5 Tahun 2004",
+        "Undang-Undang Nomor 8 Tahun 1981"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: − Bahwa alasan kasasi Penuntut Umum pada pokoknya adalah mengenai judex facti telah salah dalam menerapkan hukum dengan menyatakan Terdakwa terbukti bersalah melakukan perbuatan dalam dakwaan Primair, berdasarkan fakta hukum, perbuatan Terdakwa yang tepat menurut Penuntut Umum adalah terbukti dakwaan Subsidair. Selain itu judex facti juga salah menerapkan hukum dengan tidak menjatuhkan pidana uang pengganti kepada Terdakwa; − Bahwa alasan kasasi Terdakwa pada pokoknya adalah judex facti tidak menerapkan hukum atau menerapkan",
+      "legal_holdings_excerpt": "Menimbang bahwa berdasarkan pertimbangan tersebut dan ternyata pula putusan judex facti dalam perkara ini tidak bertentangan dengan hukum dan/atau undang-undang, maka permohonan kasasi dari pemohon kasasi I/Penuntut Umum dan pemohon kasasi II/Terdakwa tersebut dinyatakan ditolak; Menimbang bahwa karena Terdakwa dipidana, maka dibebani untuk membayar biaya perkara pada tingkat kasasi; Mengingat Pasal 2 Ayat (1) juncto Pasal 18 Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dan ditambah dengan Undang-Undang Nomor 20 Tahun 2001 tentang perubahan atas Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi juncto Pasal 55 Ay",
+      "final_disposition_amar": "M E N G A D I L I: − Menolak permohonan kasasi dari Pemohon Kasasi I/PENUNTUT UMUM pada KEJAKSAAN NEGERI JAMBI tersebut; − Menolak permohonan kasasi dari Pemohon Kasasi II/Terdakwa WENDY HARYANTO anak dari SUTARMAN tersebut; − Membebankan kepada Terdakwa untuk membayar biaya perkara pada tingkat kasasi sebesar Rp2.500,00 (dua ribu lima ratus rupiah); Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Rabu, tanggal 5 Agustus 2026 oleh Prof. Dr. Yanto, S.H., M.H., Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Dr. Ansori, S.H., M.H., Hakim Ad Hoc Tindak Pidana Korupsi pada Mahkamah Agung dan Dr. H. Achmad Setyo Pudjoharsoyo, S.H., M.Hum., Hakim",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_16_DIGIT_NIK_PATTERN; DETECTED_EMAIL_ADDRESS; DETECTED_INDONESIAN_MOBILE_NUMBER).",
+      "observatory_tag": "Kasasi | Pidana Khusus | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-030",
+    "provenance": {
+      "decision_number": "7689 K/Pid.Sus/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana Khusus",
+      "decision_year": 2026,
+      "pages": 14,
+      "drive_source_url": "https://drive.google.com/file/d/11ZpuWBUHYDwM7FzmKQT0_1Nrfo3Iynzc/view?usp=drivesdk",
+      "sha256_checksum": "4fccae47b2eaca7992ed22519256cfc17bc5288768951bfbf5e94784fb56a41a",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "27/Pid.Sus-TPK/2025/PN Jmb tanggal",
+          "27/Pid.Sus-TPK/2025/PN Jmb tanggal 8 Janu",
+          "27/Pid.Sus-TPK/2025/PN Jmb tanggal 8 Janua",
+          "9/PID.SUS-TPK/2026/PT JMB tanggal 4 Maret"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi yang diajukan Pemohon Kasasi I/ Penuntut Umum dan Pemohon Kasasi II/Terdakwa dalam memori kasasi selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi Penuntut Umum pada pokoknya menyatakan judex facti tidak menerapkan peraturan hukum sebagaimana mestinya, pidana yang dijatuhkan terhadap Terdakwa terlalu ringan sehingga tidak mencerminkan rasa keadilan dan untuk itu memohon agar Terdakwa dijatuhi pidana sebagaimana tuntutan Penuntut Umum; - Bahwa alasan kasasi Terdakwa pada pokoknya menyata",
+      "parties_arguments_excerpt": "Memori Kasasi tanggal 25 Maret 2026 dari Penuntut Umum pada Kejaksaan Negeri Jambi tersebut sebagai Pemohon Kasasi I yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 30 Maret 2026; Membaca Memori Kasasi tanggal 31 Maret 2026 dari Penasihat Hukum Terdakwa yang bertindak untuk dan atas nama Terdakwa berdasarkan Surat Kuasa Khusus tanggal 30 Maret 2026 tersebut sebagai Pemohon Kasasi II yang diterima di Kepaniteraan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi pada tanggal 31 Maret 2026; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tin",
+      "applicable_legal_provisions": [
+        "Pasal 197 Ayat (1) huruf f KUHAP",
+        "Pasal 55 Ayat ( 1) ke -1 KUHP",
+        "Pasal 55 Ayat (1) ke -1 KUHP",
+        "Pasal 55 Ayat (1) ke-1 KUHP",
+        "Undang-Undang Nomor 1 Tahun 2023",
+        "Undang-Undang Nomor 1 Tahun 2026",
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 20 Tahun 2001",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 31 Tahun 1999",
+        "Undang-Undang Nomor 8 Tahun 1981"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa alasan kasasi Penuntut Umum pada pokoknya menyatakan judex facti tidak menerapkan peraturan hukum sebagaimana mestinya, pidana yang dijatuhkan terhadap Terdakwa terlalu ringan sehingga tidak mencerminkan rasa keadilan dan untuk itu memohon agar Terdakwa dijatuhi pidana sebagaimana tuntutan Penuntut Umum; - Bahwa alasan kasasi Terdakwa pada pokoknya menyatakan judex facti tidak menerapkan peraturan hukum sebagaimana mestinya, berdasarkan fakta di persidangan Terdakwa tidak terbukti bersalah melakukan tindak",
+      "legal_holdings_excerpt": "Menimbang bahwa berdasarkan pertimbangan tersebut, maka permohonan kasasi dari Pemohon Kasasi I/Penuntut Umum dan Pemohon Kasasi II/Terdakwa tersebut dinyatakan ditolak dengan perbaikan; Menimbang bahwa dengan demikian, Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tinggi Jambi Nomor 9/PID.SUS-TPK/ 2026/PT JMB tanggal 4 Maret 2026 yang mengubah Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi Nomor 27/Pid.Sus- TPK/2025/PN Jmb tanggal 8 Januari 2026 harus diperbaiki mengenai pidana yang dijatuhkan kepada Terdakwa; Menimbang bahwa karena Terdakwa dipidana, maka dibebani untuk membayar biaya perkara pada tingkat kasasi; Mengingat Pasal 2 Ayat (1) junc",
+      "final_disposition_amar": "M E N G A D I L I: − Menolak permohonan kasasi dari Pemohon Kasasi I/ PENUNTUT UMUM pada KEJAKSAAN NEGERI JAMBI tersebut; − Menolak permohonan kasasi dari Pemohon Kasasi II/ Terdakwa VICTOR GUNAWAN, S.E. anak dari HENDRI GUNAWAN tersebut; − Memperbaiki Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Tinggi Jambi Nomor 9/PID.SUS-TPK/2026/PT JMB tanggal 4 Maret 2026 yang mengubah Putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jambi Nomor 27/Pid.Sus-TPK/2025/PN Jmb tanggal 8 Januari 2026 tersebut mengenai pidana yang dijatuhkan kepada Terdakwa menjadi: 1. Menjatuhkan pidana kepada Terdakwa oleh karena itu dengan pidana penjara selama 6 (enam)",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS).",
+      "observatory_tag": "Kasasi | Pidana Khusus | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2026-031",
+    "provenance": {
+      "decision_number": "330 K/Pid/2026",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana",
+      "decision_year": 2026,
+      "pages": 8,
+      "drive_source_url": "https://drive.google.com/file/d/1YUn2XheKysJH33mdsjrYul_XNDcgk6l-/view?usp=drivesdk",
+      "sha256_checksum": "de57386f0faabe868a190e2febce0c2146534581da46efa2f4088c96c7c48bde",
+      "privacy_gate_status": "PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "177/Pid.B/2025/PN Mrk tanggal 8 Desem"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum dalam memori kasasi selengkapnya termuat dalam berkas perkara; Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa perkara a quo telah dilimpahkan dan diperiksa oleh pengadilan tingkat pertama sebelum tanggal 2 Januari 2026, maka menurut ketentuan Pasal 361 huruf c Undang -Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana pemeriksaan perkara a quo di tingkat kasasi dilakukan dengan menggunakan ketentuan Undang - Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana; - Bahwa menurut ketentuan Pasal 3 Ayat (1) ju",
+      "parties_arguments_excerpt": "Memori Kasasi tanggal 12 Desember 2025 dari Penuntut Umum pada Kejaksaan Negeri Merauke sebagai Pemohon Kasasi yang Dokumen ini telah ditandatangani secara digital menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertifikasi Elektronik (BSrE) BSSN. Halaman 4 dari 8 halaman Putusan Nomor 330 K/Pid/2026 diterima di Kepaniteraan Pengadilan Negeri Merauke pada tanggal 12 Desember 2025; Membaca pula surat-surat lain yang bersangkutan; Menimbang bahwa Putusan Pengadilan Tinggi tersebut telah diucapkan dengan hadirnya Penuntut Umum pada Kejaksaan Negeri Merauke pada tanggal 8 Desember 2025 dan Penuntut Umum tersebut mengajukan permohonan kasasi pada tanggal 8 Desember 2",
+      "applicable_legal_provisions": [
+        "Pasal 351 Ayat (1) KUHP",
+        "Pasal 351 Ayat (2) KUHP",
+        "Pasal 354 Ayat (1) KUHP",
+        "Undang-Undang Nomor 1 Tahun 2023",
+        "Undang-Undang Nomor 11 Tahun 2008",
+        "Undang-Undang Nomor 14 Tahun 1985",
+        "Undang-Undang Nomor 3 Tahun 2009",
+        "Undang-Undang Nomor 48 Tahun 2009",
+        "Undang-Undang Nomor 8 Tahun 1981"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang bahwa terhadap alasan kasasi yang diajukan Pemohon Kasasi/Penuntut Umum tersebut, Mahkamah Agung berpendapat sebagai berikut: - Bahwa perkara a quo telah dilimpahkan dan diperiksa oleh pengadilan tingkat pertama sebelum tanggal 2 Januari 2026, maka menurut ketentuan Pasal 361 huruf c Undang -Undang Nomor 20 Tahun 2025 tentang Kitab Undang-Undang Hukum Acara Pidana pemeriksaan perkara a quo di tingkat kasasi dilakukan dengan menggunakan ketentuan Undang - Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana; - Bahwa menurut ketentuan Pasal 3 Ayat (1) juncto Pasal 618 Undang - Undang Nomor 1 Tahun 2023 tentang Kitab Undang -Undang Hukum Pidana, dalam hal terdapat perubahan",
+      "legal_holdings_excerpt": "Menimbang bahwa berdasarkan pertimbangan tersebut dan ternyata pula putusan judex facti dalam perkara ini tidak bertentangan dengan hukum dan/atau undang -undang, maka permohonan kasasi dari Pemohon Kasasi/Penuntut Umum tersebut dinyatakan ditolak; Menimbang bahwa karena Terdakwa dibebaskan, maka biaya perkara pada seluruh tingkat peradilan dan pada tingkat kasasi dibebankan kepada Negara; Mengingat Pasal 191 Ayat (1) Undang -Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman, dan Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung sebagaimana telah diubah dengan Undang-Undang Nomor Dokumen ini telah ditandatan",
+      "final_disposition_amar": "M E N G A D I L I: − Menolak permohonan kasasi dari Pemohon Kasasi /PENUNTUT UMUM pada KEJAKSAAN NEGERI MERAUKE tersebut; − Membebankan biaya perkara pada seluruh tingkat peradilan dan pada tingkat kasasi dibebankan kepada Negara; Demikianlah diputuskan dalam rapat musyawarah Majelis Hakim pada hari Rabu, tanggal 1 April 2026 oleh Dr. Prim Haryadi, S.H., M.H. , Hakim Agung yang ditetapkan oleh Ketua Mahkamah Agung sebagai Ketua Majelis, Sutarjo, S.H., M.H., dan Dr. Sigid Triyono, S.H., M.H., Hakim-Hakim Agung sebagai Hakim -Hakim Anggota, putusan tersebut diucapkan dalam sidang terbuka untuk umum pada hari dan tanggal itu juga, oleh Ketua Majelis yang dihadiri Hakim -Hakim Anggo",
+      "relevant_precedents_cited": []
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: PASS_TEXT_SCAN_PENDING_HUMAN_SIGNOFF (NONE).",
+      "observatory_tag": "Kasasi | Pidana | 2026"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  },
+  {
+    "record_id": "DEC-2017-032",
+    "provenance": {
+      "decision_number": "498 K/Pid/2017",
+      "proceeding_level": "Kasasi",
+      "chamber": "Pidana",
+      "decision_year": 2017,
+      "pages": 85,
+      "drive_source_url": "https://drive.google.com/file/d/1yHCpww6qU_hNB6BDb2mEMZSXXl2xULRD/view?usp=drivesdk",
+      "sha256_checksum": "c61b81cb2e138cc49a647356d40bd072bb31eb6c3b4a68843afcc52cb51f0b30",
+      "privacy_gate_status": "BLOCKED_NEEDS_ANONYMISATION_REVIEW"
+    },
+    "official_judicial_content": {
+      "case_identification_and_history": {
+        "lower_court_references": [
+          "04/Pid.Prap/2016/PN.JKT.PST tertanggal",
+          "103/PID/2012/PT.DKI juncto Nomor 12",
+          "1047/Pid.B/2014/PN.Bdg juncto Nomor 8",
+          "143/PID/2012/PT-MDN juncto Nomor 30",
+          "16/PID/2006/PT.DKI juncto Nomor 13",
+          "28/PID/2015/PT.DKI juncto Nomor 13",
+          "317/Pid.B/2015/PN.Grt",
+          "393/Pid/2016/PT.DKI tanggal 7 Maret",
+          "438/Pid.B/2015/PN.Tjk",
+          "53/PID/2013/PT.DKI juncto Nomor 13",
+          "777/Pid.B/2016/PN.Jkt.Pst",
+          "794/Pid.B/2014/PN Llg tanggal 4 Mei 2"
+        ],
+        "decision_date_text": null
+      },
+      "legal_issues_excerpt": "ALASAN-ALASAN KASASI: Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang seharusnya ada, namun belum tersedia, maka harap segera hubungi Kepaniteraan Mahkamah Agung RI melalui : Email : kepaniteraan@mahkamahagu",
+      "parties_arguments_excerpt": "memori kasasi tanggal 10 April 2017 dan tambahan memori kasasi dari Penasihat Hukum Terdakwa (berdasarkan Surat Kuasa Khusus tanggal 24 Maret 2017) yang bertindak untuk dan atas nama Terdakwa sebagai Pemohon Kasasi , yang diterima di Kepaniteraan Pengadilan Negeri Jakarta Pusat pada tanggal 10 April 2017 dan tanggal 27 April 2017; Memperhatikan kontra memori kasasi tanggal 25 April 2017 dari Penuntut Umum pada Kejaks aan Negeri Jakarta Pusat sebagai Termohon Kasasi, yang diterima di Kepaniteraan Pengadilan Negeri Jakarta Pusat pada tanggal 25 April 2017; Membaca surat-surat yang bersangkutan; Menimbang, bahwa Putusan Pengadilan Tinggi Jakarta Nomor 393/PID/ 2016/PT. DK I. tanggal 07 Maret 20",
+      "applicable_legal_provisions": [
+        "PASAL 162 AYAT (1) KUHAP",
+        "PASAL 184 AYAT (1) KUHAP",
+        "PASAL 185 AYAT (6) HURUF D KUHAP",
+        "PASAL 197 AYAT (1) HURUF (D) KUHAP",
+        "Pasal 1 58 KUHAP",
+        "Pasal 1 77 Ayat (1) KUHAP",
+        "Pasal 1 79 Ayat (2) KUHAP",
+        "Pasal 1 83 KUHAP",
+        "Pasal 1 85 Ayat (6) huruf (d) KUHAP",
+        "Pasal 1 88 Ayat (1) KUHAP",
+        "Pasal 1 97 Ayat (1) huruf (d) KUHAP",
+        "Pasal 1 97 Ayat 2 KUHAP",
+        "Pasal 1 Ayat (28) KUHAP",
+        "Pasal 1 angka 26 KUHAP",
+        "Pasal 133 dan P asal 144 KUHAP"
+      ],
+      "judicial_reasoning_excerpt": "Menimbang, bahwa terhadap alasan permohonan kasasi Terdakwa tersebut Mahkamah Agung berpendapat: Menimbang bahwa alasan-alasan permohonan kasasi Terdakwa yang diuraikan dalam memori kasasinya tidak dapat dibenarkan, karena judex facti tidak salah menerapkan hukum dalam mengadili perkara Terdakwa. Judex facti telah mempertimbangkan hal -hal yang rele van secara yuridis dengan bena r dengan memverifikasi keterangan saksi -saksi, keterangan ahli, keterangan Terdakwa, surat -surat, petunjuk, dan barang bukti secara tepat dan benar , Disclaimer Kepaniteraan Mahkamah Agung Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung",
+      "legal_holdings_excerpt": "Menimbang, bahwa berdasarkan fakta tersebut di atas telah terjadi skenario Terdakwa untuk mengelabui dan mensiasati supaya tidak diketahui oleh pengunjun g cafe Olivier, siapa sesungguhnya pelaku pembunuhan Mirna ini. Majelis Hakim melihat peristiwa ini dengan menggunakan nalar dan hati nurani, bahwa sesungguhnya tidak ada orang lain yang memasukkan racun Sianida (NaCn) di kopi Mirna selain Terdakwa sendiri, seperti yang sudah dipertimbangkan di atas”; 94. Bahwa pertimbangan yang mendasarkan hati nurani tersebut adalah tidak tepat, bahkan telah bertentangan dengan isi Pasal 1 83 KUHAP yang berbunyi sebagai berikut: “Hakim tidak boleh menjatuhkan pidana kepada se orang kecuali apabila dengan",
+      "final_disposition_amar": null,
+      "relevant_precedents_cited": [
+        "Putusan Mahkamah Agung RI Nomor 638",
+        "Putusan Mahkamah Agung RI Nomor 67",
+        "Putusan Mahkamah Konstitusi Nomor 20/PUU",
+        "Putusan Mahkamah Konstitusi Nomor 20/PUU-XIV/2016.",
+        "Yurisprudensi Mahkamah Agung Nomor 1691",
+        "Yurisprudensi Mahkamah Agung Nomor 218",
+        "Yurisprudensi Mahkamah Agung Nomor 552"
+      ]
+    },
+    "independent_research_commentary": {
+      "is_official_ma_position": false,
+      "privacy_and_redaction_note": "Stage 2 gate: BLOCKED_NEEDS_ANONYMISATION_REVIEW (DETECTED_EMAIL_ADDRESS; DETECTED_INDONESIAN_MOBILE_NUMBER; DETECTED_FULL_STREET_ADDRESS_BEYOND_DATI_2).",
+      "observatory_tag": "Kasasi | Pidana | 2017"
+    },
+    "completeness_flags": {
+      "fields_populated": 7,
+      "fields_total": 9,
+      "extraction_method": "deterministic_pypdf_regex_zero_imputation"
+    }
+  }
+]

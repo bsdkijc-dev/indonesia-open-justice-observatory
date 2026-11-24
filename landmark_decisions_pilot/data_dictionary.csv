@@ -1,0 +1,20 @@
+column_name,data_type,nullable,description,governance_rule
+record_id,string,FALSE,Unique pilot record identifier (DEC-YYYY-NNN),Internal provenance key
+decision_number,string,FALSE,Official Mahkamah Agung RI case number,Preserved verbatim from PDF
+proceeding_level,string,FALSE,Judicial proceeding level (PK / Kasasi / Uji Pendapat),Verified from header
+chamber,string,FALSE,Supreme Court chamber (Perdata / Pidana / Agama / TUN / Militer),Verified from header
+decision_year,integer,FALSE,Year of Supreme Court decision,Verified from header
+pages,integer,FALSE,Total PDF page count,Computed deterministically
+privacy_gate_status,string,FALSE,Stage 2 privacy & SK KMA 2-144/2022 gate result,Fail-closed gate status
+fields_populated,integer,FALSE,Count of populated 9-part annotation fields,Completeness tracking
+fields_total,integer,FALSE,Total schema annotation fields (9),Fixed schema denominator
+lower_court_count,integer,FALSE,Number of lower-court case references extracted,Zero-imputation count
+statutes_count,integer,FALSE,Number of statutory provisions extracted,Zero-imputation count
+precedents_count,integer,FALSE,Number of cited precedents extracted,Zero-imputation count
+has_amar,boolean,FALSE,Whether final disposition (amar) was extracted,Completeness flag
+has_reasoning,boolean,FALSE,Whether judicial reasoning excerpt was extracted,Completeness flag
+decision_date_text,string,TRUE,Verbatim deliberation date clause if present,Null/empty if absent
+applicable_legal_provisions,string,TRUE,Pipe-delimited list of cited statutes and rules,Verbatim regex extraction
+final_disposition_amar,string,TRUE,Verbatim excerpt of final disposition with PII masked,Official judicial text
+drive_source_url,string,FALSE,Source reference URL in LANDMARK DECISION Drive folder,Provenance link
+sha256_checksum,string,FALSE,SHA-256 hash of source PDF binary,Verifiable provenance

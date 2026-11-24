@@ -1,0 +1,2 @@
+pk_record_id,decision_number,chamber,decision_year,satker_id,official_putusan3_url,qr_verified,export_date,export_operator,pdf_filename,sha256_checksum,sk_kma_2_144_category,privacy_gate_status,notes
+PK-2026-001,EXAMPLE_DO_NOT_USE_123_PK_Pdt_2025,Perdata,2025,MA-RI-000,https://putusan3.mahkamahagung.go.id/direktori/putusan/EXAMPLE.html,FALSE,2026-11-24,,example_pk.pdf,,NONE_GENERAL_OPEN,PENDING_EXPORT,"Template row: replace with manual browser export from putusan3.mahkamahagung.go.id"

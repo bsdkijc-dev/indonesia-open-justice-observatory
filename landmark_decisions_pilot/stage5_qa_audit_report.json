@@ -1,0 +1,12 @@
+{
+  "total_json_records": 32,
+  "total_csv_rows": 32,
+  "row_count_match": true,
+  "checksum_mismatches": 0,
+  "schema_errors": 0,
+  "json_pii_leaks": 0,
+  "csv_pii_leaks": 0,
+  "commentary_separation_errors": 0,
+  "kaggle_metadata_valid_and_private": true,
+  "overall_qa_status": "PASS_READY_FOR_HUMAN_APPROVAL"
+}

@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsdkijc-dev/indonesia-open-justice-observatory/schemas/stage2_privacy_verification_schema.json",
+  "title": "MA RI Open Justice Stage 2 Legal & Privacy Verification Schema",
+  "description": "Fail-closed privacy, anonymisation, and legal-disclosure verification schema grounded in SK KMA 2-144/KMA/SK/VIII/2022, UU No. 27 Tahun 2022 (UU PDP), and UU No. 14 Tahun 2008 (UU KIP).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "pk_record_id",
+    "decision_number",
+    "official_source_url",
+    "qr_verified",
+    "sk_kma_2_144_assessment",
+    "excluded_information_screen",
+    "pii_redaction_checks",
+    "uu_pdp_sensitive_data_screen",
+    "human_privacy_signoff",
+    "publication_eligibility"
+  ],
+  "properties": {
+    "pk_record_id": {
+      "type": "string",
+      "pattern": "^PK-[0-9]{4}-[0-9]{3,4}$"
+    },
+    "decision_number": {
+      "type": "string",
+      "minLength": 5
+    },
+    "official_source_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://putusan3\\.mahkamahagung\\.go\\.id/"
+    },
+    "qr_verified": {
+      "type": "boolean",
+      "description": "Must be true per Kepaniteraan MA QR verification standard before any downstream annotation."
+    },
+    "sk_kma_2_144_assessment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["anonymisation_category", "anonymisation_required", "anonymisation_verified"],
+      "properties": {
+        "anonymisation_category": {
+          "type": "string",
+          "enum": [
+            "NONE_GENERAL_OPEN",
+            "CAT_1_VICTIM_WITNESS_KESUSILAAN_KDRT_LPSK_CLOSED",
+            "CAT_2_TERRORISM_ALL_ACTORS",
+            "CAT_3_JUVENILE_ABH",
+            "CAT_4_FAMILY_MARRIAGE_ADOPTION_WILLS_CLOSED",
+            "CAT_5_OTHER_MORALITY_CONTENT"
+          ]
+        },
+        "anonymisation_required": { "type": "boolean" },
+        "anonymisation_verified": { "type": "boolean" },
+        "dati_2_address_only": { "type": "boolean" }
+      }
+    },
+    "excluded_information_screen": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "contains_advisblaad_or_deliberation",
+        "contains_mediation_notes",
+        "contains_hearing_minutes_or_raw_exhibits",
+        "contains_sanctioned_or_whistleblower_id"
+      ],
+      "properties": {
+        "contains_advisblaad_or_deliberation": { "type": "boolean", "const": false },
+        "contains_mediation_notes": { "type": "boolean", "const": false },
+        "contains_hearing_minutes_or_raw_exhibits": { "type": "boolean", "const": false },
+        "contains_sanctioned_or_whistleblower_id": { "type": "boolean", "const": false }
+      }
+    },
+    "pii_redaction_checks": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "no_unredacted_nik_or_passport",
+        "no_unredacted_full_address",
+        "no_unredacted_workplace_or_school",
+        "no_unredacted_evidence_doc_numbers",
+        "no_unredacted_personal_phone_or_email"
+      ],
+      "properties": {
+        "no_unredacted_nik_or_passport": { "type": "boolean", "const": true },
+        "no_unredacted_full_address": { "type": "boolean", "const": true },
+        "no_unredacted_workplace_or_school": { "type": "boolean", "const": true },
+        "no_unredacted_evidence_doc_numbers": { "type": "boolean", "const": true },
+        "no_unredacted_personal_phone_or_email": { "type": "boolean", "const": true }
+      }
+    },
+    "uu_pdp_sensitive_data_screen": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["no_unredacted_health_or_biometric", "no_unredacted_child_data", "no_unredacted_personal_financial_account"],
+      "properties": {
+        "no_unredacted_health_or_biometric": { "type": "boolean", "const": true },
+        "no_unredacted_child_data": { "type": "boolean", "const": true },
+        "no_unredacted_personal_financial_account": { "type": "boolean", "const": true }
+      }
+    },
+    "human_privacy_signoff": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reviewer_role", "reviewed_at_iso", "approved_for_research_staging"],
+      "properties": {
+        "reviewer_role": { "type": "string", "minLength": 3 },
+        "reviewed_at_iso": { "type": "string", "format": "date-time" },
+        "approved_for_research_staging": { "type": "boolean" }
+      }
+    },
+    "publication_eligibility": {
+      "type": "string",
+      "enum": ["BLOCKED_PII_OR_EXCLUSION", "STAGED_PRIVATE_PENDING_HUMAN_APPROVAL", "APPROVED_PUBLIC_RELEASE"]
+    }
+  }
+}

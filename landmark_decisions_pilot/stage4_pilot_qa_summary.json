@@ -1,0 +1,9 @@
+{
+  "total_decisions": 32,
+  "schema_validation_errors": 0,
+  "avg_fields_populated_out_of_9": 6.5,
+  "decisions_with_amar": 29,
+  "decisions_with_reasoning": 27,
+  "decisions_with_statutes": 21,
+  "decisions_with_lower_court_history": 28
+}

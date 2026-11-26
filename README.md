@@ -1,4 +1,18 @@
+<div align="center">
+
+<img src="assets/logo.svg" alt="Indonesia Open Justice Observatory (IOJO) Logo" width="140">
+
 # Indonesia Open Justice Observatory (IOJO)
+
+### Justice you can verify — reproducible judicial transparency indicators and zero-imputation open justice pipelines.
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE) ![Stack](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white) [![CI](https://github.com/bsdkijc-dev/indonesia-open-justice-observatory/actions/workflows/test.yml/badge.svg)](https://github.com/bsdkijc-dev/indonesia-open-justice-observatory/actions/workflows/test.yml)
+
+[Documentation](research/) · [Repository](https://github.com/bsdkijc-dev/indonesia-open-justice-observatory)
+
+</div>
+
+---
 
 **Tagline:** *Justice You Can Verify.*  
 **Research Director:** Cecep Mustafa, Ph.D.  
@@ -63,3 +77,13 @@ python3 -m analysis.pipeline.run_pipeline
 - **Three Validation States:** Every record is tagged `VERIFIED`, `DERIVED`, or `UNVERIFIED`.
 - **No Unvalidated Rankings:** No composite national judicial ranking and no ranking of individual judges.
 - **Human Approval Gates:** No external dataset publication or high-intensity collection without explicit human approval.
+
+---
+
+<div align="center">
+
+**Indonesia Open Justice Observatory (IOJO)**
+
+[github.com/bsdkijc-dev/indonesia-open-justice-observatory](https://github.com/bsdkijc-dev/indonesia-open-justice-observatory)
+
+</div>
